@@ -1,0 +1,52 @@
+name:       'Fogies Base'
+
+brandimage: ''
+brandtext:  'Fogies'
+
+lessc: node_modules/.bin/lessc
+
+navbar:
+  items:
+    - text: 'Bar-Sidebar-None'
+      link: 'base_sample/bar-sidebar-none.html'
+    - text: 'Bar-Sidebar-Right'
+      link: 'base_sample/bar-sidebar-right.html'
+    - text: 'Freelancer'
+      link: 'base_sample/freelancer.html'
+
+exclude:
+  # base
+  - base.__init__.py
+  - base/invoke
+  - base/readme
+  # Bootstrap source files
+  - bootstrap/less
+  # CSS/LESS files that are included by other less files and cannot compile on their own
+  - css/styles.less
+  - css/base/base_styles.less
+  - css/base/base_variables.less
+  - css/base/syntax.css
+  - css/base/bar/base_bar.less
+  - css/base/freelancer/base_freelancer.less
+  - css/base/freelancer/freelancer.less
+  - css/base/freelancer/mixins.less
+  - css/base/freelancer/variables.less
+  # Node
+  - node_modules
+  - npm-shrinkwrap.json
+  - package.json
+  # Python
+  - env35
+  - requirements3.in
+  - requirements3.txt
+  - tasks.py
+  - tasks.pyc
+  # README
+  - README.md
+  # Ruby
+  - Gemfile
+  - Gemfile.lock
+  # Secrets
+  - secrets
+  # Tests
+  - tests
