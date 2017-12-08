@@ -1,0 +1,133 @@
+config:
+  python:
+    version: 3.5.2
+    pip_version: 9.0.1
+    # Invoke is currently pinned by this bug:
+    #   https://github.com/pyinvoke/invoke/issues/345
+    invoke_version: 0.12.2
+
+  node:
+    required: true
+    version: 4.5.0
+
+  ruby:
+    required: true
+    version: 2.3.3
+    bundler_version: 1.13.6
+
+  docker:
+    required: false
+
+    toolbox:
+      version: v17.06.0a-ce
+
+      macos:
+        cmd_bash: /bin/bash
+        cmd_dockermachine: /usr/local/bin/docker-machine
+      windows:
+        cmd_bash: c:/Program Files/Git/bin/bash
+        cmd_dockermachine: c:/Program Files/Docker Toolbox/docker-machine.exe
+
+    travis:
+      version: 1.11.2-0~trusty
+      compose_version: 1.8.0-rc1
+      compose_up_delay: 60
+
+  readme:
+    url_github: https://github.com/fogies/web-jekyll-base
+    url_github_readme: blob/master/README.md
+    url_github_readme_basedir: blob/master/readme
+
+    travis_badge: '[![Build Status](https://travis-ci.org/fogies/web-jekyll-base.svg?branch=master)](https://travis-ci.org/fogies/web-jekyll-base)'
+
+    working_directory_windows: c:/devel/web-jekyll-base
+    working_directory_mac: ~/Desktop/web-jekyll-base
+
+    invoke_readme_frequent:
+      - build_production
+      - build_test
+      - serve_production
+      - serve_test
+
+    invoke_readme_paths:
+      build_production: base/readme/invoke/build_production.md
+      build_test: base/readme/invoke/build_test.md
+      compile_config: base/readme/invoke/compile_config.md
+      compile_requirements: base/readme/invoke/compile_requirements.md
+      docker_console: base/readme/invoke/docker_console.md
+      docker_ip: base/readme/invoke/docker_ip.md
+      docker_localize: base/readme/invoke/docker_localize.md
+      docker_machine_ensure: base/readme/invoke/docker_machine_ensure.md
+      docker_start: base/readme/invoke/docker_start.md
+      docker_stop: base/readme/invoke/docker_stop.md
+      serve_production: base/readme/invoke/serve_production.md
+      serve_test: base/readme/invoke/serve_test.md
+      update_base: base/readme/invoke/update_base.md
+      update_dependencies: base/readme/invoke/update_dependencies.md
+
+    python_versions:
+      - version: 3.5.2
+        virtual_environment_name: env35
+        requirements_name: requirements3.txt
+        windows:
+          installer_url: https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe
+          install_path: c:/Python35
+
+    node_versions:
+      - version: 4.5.0
+        windows:
+          installer_url: https://nodejs.org/dist/v4.5.0/node-v4.5.0-x64.msi
+
+    ruby_versions:
+      - version: 2.2.3
+        windows:
+          installer_url: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.3.exe
+          install_path: c:/Ruby223
+          installer_devkit_url: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
+          install_devkit_path: c:/RubyDevKit
+      - version: 2.3.1
+        windows:
+          installer_url: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.1.exe
+          install_path: c:/Ruby231
+          installer_devkit_url: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
+          install_devkit_path: c:/RubyDevKit
+      - version: 2.3.3
+        windows:
+          installer_url: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.3.exe
+          install_path: c:/Ruby233
+          installer_devkit_url: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
+          install_devkit_path: c:/RubyDevKit
+
+    docker_toolbox_versions:
+      - version: v17.06.0a-ce
+        macos:
+          installer_url: https://github.com/docker/toolbox/releases/download/v17.06.0a-ce/DockerToolbox-17.06.0a-ce.pkg
+        windows:
+          installer_url: https://github.com/docker/toolbox/releases/download/v17.06.0a-ce/DockerToolbox-17.06.0a-ce.exe
+          install_path: c:/Program Files/Docker Toolbox
+      - version: 1.12.3
+        macos:
+          installer_url: https://github.com/docker/toolbox/releases/download/v1.12.3/DockerToolbox-1.12.3.pkg
+        windows:
+          installer_url: https://github.com/docker/toolbox/releases/download/v1.12.3/DockerToolbox-1.12.3.exe
+          install_path: c:/Program Files/Docker Toolbox
+
+compile_config:
+  entries:
+    - in:  README.md.in
+      out: README.md
+    - in:  readme/install_mac.md.in
+      out: readme/install_mac.md
+    - in:  readme/install_windows.md.in
+      out: readme/install_windows.md
+    - in:  readme/invoke.md.in
+      out: readme/invoke.md
+    - in:  requirements3.in.in
+      out: requirements3.in
+    - in:  .travis.yml.in
+      out: .travis.yml
+
+compile_docker_localize:
+  entries:
+    - in:  tests/full/docker/test_compose.yml
+      out: tests/full/docker/test_compose.localized.yml
