@@ -1,0 +1,43 @@
+projects:
+#   - name: "amisu"
+#     path: amisu
+#     publishlink: false
+#   - name: "BackTrack"
+#     path: backtrack
+#     publishlink: false
+#   - name: "Cease"
+#     path: cease
+#     publishlink: false
+#   - name: "Check Yourself"
+#     path: checkyourself
+#     publishlink: false
+#   - name: "Hermes"
+#     path: hermes
+#     publishlink: true
+#   - name: "interview.io"
+#     path: interviewio
+#     publishlink: true
+#   - name: "MetaGrocer"
+#     path: metagrocer
+#     publishlink: false
+#   - name: "MOLO"
+#     path: molo
+#     publishlink: true
+#   - name: "Pilltender"
+#     path: pilltender
+#     publishlink: false
+#   - name: "RAPID"
+#     path: rapid
+#     publishlink: false
+#   - name: "SALT"
+#     path: salt
+#     publishlink: false
+#   - name: "SimPark"
+#     path: simpark
+#     publishlink: true
+#   - name: "Speech Bubble"
+#     path: speechbubble
+#     publishlink: false
+#   - name: "StudyBuddy"
+#     path: studybuddy
+#     publishlink: true
