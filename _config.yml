@@ -1,18 +1,18 @@
-name:       'Fogies Base'
+name:       'CSE 440'
 
 brandimage: ''
-brandtext:  'Fogies'
+brandtext:  'CSE 440 - Introduction to HCI - Winter 2018'
 
 lessc: node_modules/.bin/lessc
 
 navbar:
   items:
-    - text: 'Bar-Sidebar-None'
-      link: 'base_sample/bar-sidebar-none.html'
-    - text: 'Bar-Sidebar-Right'
-      link: 'base_sample/bar-sidebar-right.html'
-    - text: 'Freelancer'
-      link: 'base_sample/freelancer.html'
+    - text: 'Home'
+      link: 'index.html'
+    - text: 'Projects'
+      link: 'projects.html'
+    - text: 'Calendar'
+      link: 'calendar.html'
 
 exclude:
   # base
@@ -31,6 +31,8 @@ exclude:
   - css/base/freelancer/freelancer.less
   - css/base/freelancer/mixins.less
   - css/base/freelancer/variables.less
+  # LESS files in a project, due to copying in CSS libraries
+  - projects/*.less
   # Node
   - node_modules
   - npm-shrinkwrap.json
@@ -50,3 +52,9 @@ exclude:
   - secrets
   # Tests
   - tests
+
+collections:
+  assignments:
+    output: true
+  projects:
+    output: true
