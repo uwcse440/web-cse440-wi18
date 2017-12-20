@@ -5,7 +5,7 @@ dates_of_instruction:
 locations:
   lectures:
     - time: "10:30 - 11:50"
-      #location: "PAA A110"
+      location: "OUG 136"
 
   exam:
     - time: "12:00 - 1:20"
@@ -13,13 +13,13 @@ locations:
 
   sections:
     - time: "10:30 - 11:20"
-      #location: "MGH 058"
+      location: "MGH 295"
     - time: "11:30 - 12:20"
-      #location: "MGH 058"
+      location: "MGH 295"
     - time: "1:30 - 2:20"
-      #location: "MGH 058"
+      location: "MGH 295"
     - time: "2:30 - 3:20"
-      #location: "MGH 058"
+      location: "MGH 295"
 
   sections_afternoononly:
     - time: "1:30 - 2:20"
@@ -138,9 +138,6 @@ assignments:
     name: "1a - Project Brainstorm"
 #    duenote: "[due night before section]"
     link: "assignments/assignment1/#project_brainstorm"
-  - date: "2018-01-10"
-    name: "Reading 1: Empathy on the Edge"
-    link: "assignments/readings/#contextual_inquiry"
   - date: "2018-01-12"
     name: "1b - Project Proposal"
     link: "assignments/assignment1/#project_proposal"
@@ -151,6 +148,9 @@ assignments:
     name: "2a - Project Ideation"
     duenote: "[done in section]"
     link: "assignments/assignment2/#project_ideation"
+  - date: "2018-01-22"
+    name: "Reading 1: Empathy on the Edge"
+    link: "assignments/readings/#contextual_inquiry"
   - date: "2018-01-24"
     name: "2b - Design Research Plan"
     link: "assignments/assignment2/#design_research_plan"
@@ -194,12 +194,13 @@ assignments:
   - date: "2018-02-23"
     name: "3e - Digital Mockup"
     link: "assignments/assignment3/#digital_mockup"
-  - date: "2018-02-27"
-    name: "3g - Presentation"
-    link: "assignments/assignment3/#presentation"
   - date: "2018-03-02"
     name: "3f - Getting the Design Right"
     link: "assignments/assignment3/#final_report"
+  - date: "2018-03-02"
+    name: "3g - Presentation"
+    duenote: "[critique in section]"
+    link: "assignments/assignment3/#presentation"
   - date: "2018-03-05"
     name: "4a - Initial Website"
     link: "assignments/assignment4/#initial_website"
