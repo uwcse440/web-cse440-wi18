@@ -2,19 +2,19 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
-due_project_1a: Uploaded Thursday, September 28, 2017 (before section on Friday, September 29,2017)
-link_project_1a: https://canvas.uw.edu/courses/1173784/assignments/3902386
+due_project_1a: Uploaded Friday, March 31, 2017
+#link_project_1a: https://canvas.uw.edu/courses/1138137/assignments/3689000
 
-due_project_1b: Uploaded Monday, October 2, 2017
-link_project_1b: https://canvas.uw.edu/courses/1173784/assignments/3902388
+due_project_1b: Uploaded Wednesday (due night before class), April 5, 2017
+#link_project_1b: https://canvas.uw.edu/courses/1138137/assignments/3689054
 
-due_project_1c: Submitted Wednesday, October 4, 2017
-link_project_1c_projects: https://canvas.uw.edu/courses/1173784/discussion_topics
-link_project_1c_bids: https://goo.gl/forms/AdQ11KQeQpMZgDv72
+due_project_1c: Submitted Friday, April 7, 2017
+#link_project_1c_bids: https://canvas.uw.edu/courses/1138137/assignments/3689056
 ---
 
 <div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
+This page is still being migrated and developed.
+Information here is likely suggestive of the final page, but remains subject to change.
 </div>
 
 # Overview
@@ -23,10 +23,11 @@ You are to propose a __problem__ and an __approach__ that could form the basis o
 Successful projects will observe the need for good human-centered design in an interactive computing system, 
 analyze the needs and opportunities in the problem, explore potential designs, and propose a compelling solution.
 
-This assignment is worth __3%__ of your overall course grade:
+This assignment is worth __5 out of 100 points__ of your overall course grade:
 
-- __0.5%__ for the proposal brainstorm
-- __2.5%__ for the project proposal
+- __1 point__ for the proposal brainstorm
+- __3 points__ for the project proposal
+- __1 point__ for the revised project proposal
 
 # Milestones
 
@@ -40,87 +41,31 @@ This is an individual assignment, consisting of three milestones.
 
   Due: {{ page.due_project_1b }}
   
-* [Assignment 1c: Project Bid](#project_bid)
+* [Assignment 1c: Revised Project Proposal](#revised_proposal)
 
   Due: {{ page.due_project_1c }}
 
 # Project Description
 
-The theme for projects in this course is __tracking beyond the self__, an extension of __personal informatics__:
+This offering's project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
 
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
+Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
+For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
 
-Self-tracking and personal informatics are closely related to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
+Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
+- Minorities 
+- Homeless
+- People with disabilities
+- People from different cultures
+- People with chronic conditions
+- Elderly
+- Local business owners
+- Workers
+- Interactions between these groups (or between yourselves and one of these groups)
 
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
-
-As a focus for Autumn 2017, we will ask students to explore __tracking beyond the self__.
-Instead of limiting self-tracking to dashboards for an isolated self-analyst,
-we will ask students to consider the many different ways people might gather and interact around personal data.
-
-Tracking can therefore take many mobile forms:
-
-- wearable sensors
-- phone and watch applications
-- appliances and other artifacts in the environment
-- hybrid forms (e.g., semi-automated capture, mobile capture with later annotation or review)
-
-Tracking can include many social contexts:
-
-- co-located relationships (e.g., families, friends, co-workers)
-- remote relationships (e.g., families, friends, co-workers)
-- communities organizing (e.g., people in a building, community volunteers)
-- people seeking help from peers (e.g., social sharing, support networks)
-- people seeking help from experts (e.g., health providers)
-
-And tracking can explore new forms of interaction:
-
-- conversational interfaces
-- tangible interfaces
-- ubiquitous computing interfaces (e.g., enabled by the Internet of Things) 
-
-Any problem where people gather or seek value in personal data
-introduces opportunities and challenges in designing for effective interaction around that data.
-
-# Background Material
-
-Examples of widely-used personal informatics systems exist in a variety of domains.
-Some designs emphasize passive tracking (e.g., via sensing),
-while other designs emphasize more active engagement (e.g., via journaling).
-Of course, there also many axes along which designs can vary:
-
-- Finances
-  - [Mint](http://www.mint.com/) (for tracking finances)
-- Health and Wellness
-  - [Glooko](http://glooko.com/) (for tracking diabetes outcomes)
-  - [Track your Happiness](https://www.trackyourhappiness.org/) (for tracking happiness)
-- Media
-  - [Last.fm](http://www.last.fm) (for tracking music listening)
-- Physical Activity
-  - [FitBit](http://www.fitbit.com/) (for tracking physical activity)
-  - [Moves](http://www.moves-app.com/) (for tracking location)
-  - [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake)
-  - [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity)
-
-Individuals have gone much deeper into their own data:
-
-- [Feltron Report](http://feltron.com/) (a designer who tracked all of his activities to create and release an annual report)
-
-Researchers have also studied current processes, challenges, and opportunities:
-
-- [Li et al., 2010, A Stage-Based Model of Personal Informatics Systems]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf)
-- [Choe et al., 2014, Understanding Quantified-Selfer's Practices in Collecting and Exploring Personal Data]({{ site.baseurl }}/readings/PersonalInformatics-Choe2014.pdf)
-- [Rooksby et al., 2014, Personal Tracking as Lived Informatics]({{ site.baseurl }}/readings/PersonalInformatics-Rooksby2014.pdf)
-- [Cordeiro et al., 2015, Barriers and Negative Nudges: Exploring Challenges in Food Journaling]({{ site.baseurl }}/readings/PersonalInformatics-Cordeiro2015.pdf)
-- [Epstein et al., 2015, A Lived Informatics Model of Personal Informatics]({{ site.baseurl }}/readings/PersonalInformatics-Epstein2015.pdf)
-- [Pina et al., 2017, From Personal Informatics to Family Informatics: Understanding Family Practices around Health Monitoring]({{ site.baseurl }}/readings/PersonalInformatics-Pina2017.pdf)
-- [Schroeder et al., 2017, Supporting Patient-Provider Collaboration to Identify Individual Triggers using Food and Symptom Journals]({{ site.baseurl }}/readings/PersonalInformatics-Schroeder2017.pdf)
-- [Choe et al., 2017, Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications]({{ site.baseurl }}/readings/PersonalInformatics-Choe2017.pdf)
+As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
+Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
 
 ## Thinking Big
  
@@ -129,21 +74,7 @@ the problems that people face in their lives, how we can approach those problems
 This first assignment is your opportunity to think broadly about identifying a problem. Subsequent assignments will provide
 opportunities to focus on designing a specific technological solution to a specific set of tasks.
 
-You should identify and consider goals and activities that are important to people. Potential domains include:
-
- - living a healthy life
- - managing finances effectively
- - managing time effectively
- - reducing environmental impact
- 
-Activities within personal informatics can include:
-
- - planning to track
- - helping remember to track
- - the actual act of tracking
- - identifying activity patterns 
- - sharing accomplishments with friends and family
- - deciding to abandon tracking
+You should identify and consider goals and activities that are important to people. 
 
 Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). 
 Instead identify problems in long-lived activities that span many different social or technological contexts. 
@@ -155,22 +86,18 @@ You must be able to create and evaluate a design within the timeframe of this co
 can reasonably gain access to the necessary people.
 
 We encourage you to think big, expanding your thinking to include new ideas for interaction techniques or technology platforms.
-Do not feel constrained by current devices or immediate implementation, but instead aim to explore an exciting design that could potentially
+Do not feel constrained by current devices, but instead aim to explore an exciting design that could potentially
 motivate the development of new enabling technology. For example, see how Artefact presents the Dialog concept.
 This concept has not been implemented, and might not even be immediately possible.
 But it has been developed in substantial detail, understanding implications for design and implementation:
 
 - [Dialog: Better Decisions, Better Health - Artefact](http://www.artefactgroup.com/content/work/dialog/)
+- [Video of Dialog Talk in DUB Seminar](http://vimeo.com/103167385)
 
-Similarly, projects from prior offerings can help you be comfortable thinking beyond immediate implementation:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}){% endfor %}{% endfor %}
-
-Finally, the project theme requires your proposal present some opportunity for __tracking beyond the self__.
+Finally, the project theme requires that your proposal present some opportunity for __designing for diversity__.
 But you will ultimately follow your design process where it leads you, which may or may not emphasize tracking.
-Focusing on problems and opportunities, rather than specific design features,
-will leave room for your design to emerge and be refined in the course of this project.
+Focusing on problems and opportunities, rather than specific design features will leave room for your design
+to emerge and be refined in the course of this project.
 
 ## Going Forward
 
@@ -181,32 +108,33 @@ constraints of this course, and worthy of investigation.
 
 # Deliverables
 
-<a name="proposal_brainstorm"></a>
+<a name="project_brainstorm"></a>
 
-## 1a: Proposal Brainstorm
+## 1a: Project Brainstorm
 
 Due: {{ page.due_project_1a }}
 
-Friday's section will focus on brainstorming potential directions for project proposals.
+Friday’s section will focus on brainstorming potential project directions. You will get started on thinking, and help seed this brainstorming, with some individual ideas.
 
-The goal of this milestone is to help get you started in thinking up some ideas, which will also help seed brainstorming.
+Propose three starting points for brainstorming domains, problems, and goals that fall within the realm of designing for diversity.
 
-Propose three starting points for brainstorming domains, problems, and goals that might be supported via self-tracking.
+By domain, we mean an aspect of a community. Domains include:
 
-By domain, we mean an aspect of life. Domains that are already common in self-tracking include:
-
-- finances (e.g., tracking investments, spending)
-- wellness (e.g., tracking physical activity, sleep, weight)
-- health (e.g., tracking for post-surgical pain management, allergies or other personal triggers, major weight loss)
-- mood (e.g., tracking mood, identifying depressive symptoms)
+- Minorities
+- Homeless
+- People with disabilities
+- People from different cultures
+- People with chronic conditions
+- Elderly
+- Local business owners
+- Workers
 
 Be sure to focus on problems and goals, not potential design solutions.
 One way to help yourself identify a hierarchy of problems and goals is to ask "why?". For example:
 
-- Why is a person using Mint?
-- Why is a person tracking their spending?
-- Why do they want to know how much they spend on leisure activities?
-- Why do they have a goal of saving for a major purchase?
+- Why is a person not using Facebook?
+- Why is a person unable to play shooter games?
+- Why do they want to keep up with the current technology?
 
 Each idea should be a single sentence, identifying the domain and the problem or goal.
 At most one of your ideas may come from any of the domains above.
@@ -237,7 +165,7 @@ This milestone will be graded on a scale of __3 points__:
 
 Due: {{ page.due_project_1b }}
 
-The goal of this milestone is to propose and analyze a problem that could form the basis of a design project for this class.
+Propose and analyze a problem that could form the basis of a design project for this class.
 
 In one paragraph, describe the design problem and motivation. 
 This description should convince the reader that this is a difficult and interesting problem, worth spending a quarter considering. 
@@ -295,24 +223,26 @@ This proposal will be graded on a scale of __10 points__:
 3. __Novelty and Creativity__: (2 points)
 4. __Report Clarity and Presentation__: (2 points)
 
-<a name="project_bid"></a>
+<a name="revised_proposal"></a>
 
-## 1c: Project Bid
+## 1c: Revised Project Proposal
 
 Due: {{ page.due_project_1c }}
 
-Review the sponsored projects and course staff comments regarding those projects:
+Update the project proposal based on the feedback you received from the staff. Describe the changes that you made from the previous version in one to two paragraphs. 
 
-{% if page.link_project_1c_projects != nil %}<{{ page.link_project_1c_projects }}>{% else %}`Link to be added`{% endif %}
-
-You will submit a bid on projects and potential partners. Course staff will use your bids to assign projects and groups. 
+<!-- {% if page.link_project_1c_projects != nil %}<{{ page.link_project_1c_projects }}>{% else %}`Link to be added`{% endif %} -->
 
 ### Submission
 
-Submit your bid on projects and potential partners here:
+The submission should describe the changes made from the previous verion on the first page, followed by the updated proposal. 
 
 {% if page.link_project_1c_bids != nil %}<{{ page.link_project_1c_bids }}>{% else %}`Link to be added`{% endif %}
 
 ### Grading
 
-Submitting a project bid is a requirement for proceeding in the class.
+The revised proposal will be graded on a scale of __6 points__:
+
+1. __Changes explained__: (1.5 points)
+2. __Proposal Revision__: (3 points)
+3. __Report Clarity and Presentation__: (1.5 points)

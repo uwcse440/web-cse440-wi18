@@ -4,7 +4,8 @@ title: Course Overview
 ---
 
 <div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
+This page is still being migrated and developed.
+Information here is likely suggestive of the final page, but remains subject to change.
 </div>
 
 # Course Description
@@ -12,7 +13,7 @@ This page is still being migrated and developed. All content remains subject to 
 This course provides an introduction to human-computer interaction and the design process.
 Students will learn methods and skills for designing and prototyping interactive systems.
 The course covers a design process from the initial formulation of a design problem to creation of digital prototypes.
-The course structure is a mix of lectures, classroom activities, and design critiques by peers and course staff.
+The class structure is a mix of lectures, classroom activities, and design critiques by peers and course staff.
 The course is overwhelmingly organized around a group project, in which students:
 
 - Ideate and Propose Design Problems
@@ -29,117 +30,34 @@ The course is overwhelmingly organized around a group project, in which students
 - Rapid Prototyping and Iteration
 - Critical Perspective on Design Solutions
 
-# Course Staff
-
-<html>
-  <div class="row">
-    <div class="col-md-2">
-      <p>James Fogarty</p>
-      <p><img src="{{ site.baseurl }}/images/james_photo.jpg" height="140" alt="James Fogarty"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Kailey Chan</p>
-      <p><img src="{{ site.baseurl }}/images/kailey_photo.png" height="140" alt="Kailey Chan"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Dhruv Jain</p>
-      <p><img src="{{ site.baseurl }}/images/dhruv_photo.jpg" height="140" alt="Dhruv Jain"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Nigini Oliveira</p>
-      <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" height="140" alt="Nigini Oliveira"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Chris Seeds</p>
-      <p><img src="{{ site.baseurl }}/images/chris_photo.jpg" height="140" alt="Chris Seeds"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Jihoon Suh</p>
-      <p><img src="{{ site.baseurl }}/images/jihoon_photo.jpg" height="140" alt="Jihoon Suh"/></p>
-    </div>
-  </div>
-</html>
-
-# Basic Information
-
-__Contact__:
-
-- Email all instructors at cse440-staff [at] cs.washington.edu
-
-__Class Time & Location__:
-
-- Tuesdays & Thursdays, 12:00-1:20 [PAA A110](http://www.washington.edu/students/maps/map.cgi?PAA)
-
-Check the calendar for non-standard times or locations. 
-
-__Section Times & Locations__: 
-
-- Fridays, 9:30-10:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Nigini, Dhruv, Chris
-- Fridays, 10:30-11:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Nigini, Dhruv, Chris
-- Fridays, 12:30-1:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Kailey, Dhruv, Jihoon
-- Fridays, 1:30-2:20 [MGH 058](http://www.washington.edu/students/maps/map.cgi?MGH), with Kailey, Dhruv, Jihoon
-
-Check the calendar for non-standard times, locations, or staffing. 
-
-__Office Hours__: 
-
-- James, Tuesdays 3:30 to 4:30, CSE 632
-- Kailey, Wednesdays, 3:30 to 4:30, CSE 021
-- Dhruv, Thursdays, 1:30 to 2:30, CSE 021
-- Nigini, Mondays, 3:30 to 4:30, CSE 021
-
-Scheduled hours are held most weeks, but check the calendar. Other meetings are by appointment.
-
 # Project Theme
 
-People have long sought to better understand themselves, but technology advances enable new approaches.
-Students will examine problems people encounter in gathering and gaining value from personal data,
-then explore how new technology can go beyond simple data fetishes to help people in using personal data as part of reaching their goals.
+This year’s project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
 
-Understanding and designing for self-tracking is also known as personal informatics:
+Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
+For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
 
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
+Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
+- Minorities 
+- Homeless
+- People with disabilities
+- People from different cultures
+- People with chronic conditions
+- Elderly
+- Local business owners
+- Workers
+- Interactions between these groups (or between yourselves and one of these groups)
 
-Self-tracking and personal informatics are related to the [Quantified Self](http://quantifiedself.com/) movement, which describes itself as:
+As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
+Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
 
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
-
-As a focus for Autumn 2017, we will ask students to explore __tracking beyond the self__.
-Instead of limiting self-tracking to dashboards for an isolated self-analyst,
-we will ask students to consider the many different ways people might gather and interact around personal data.
-
-Tracking can therefore take many mobile forms:
-
-- wearable sensors
-- phone and watch applications
-- appliances and other artifacts in the environment
-- hybrid forms (e.g., semi-automated capture, mobile capture with later annotation or review)
-
-Tracking can include many social contexts:
-
-- co-located relationships (e.g., families, friends, co-workers)
-- remote relationships (e.g., families, friends, co-workers)
-- communities organizing (e.g., people in a building, community volunteers)
-- people seeking help from peers (e.g., social sharing, support networks)
-- people seeking help from experts (e.g., health providers)
-
-And tracking can explore new forms of interaction:
-
-- conversational interfaces
-- tangible interfaces
-- ubiquitous computing interfaces (e.g., enabled by the Internet of Things) 
-
-Any problem where people gather or seek value in personal data
-introduces opportunities and challenges in designing for effective interaction around that data.
 
 # Project Structure
 
 Projects are organized around four assignments, each consisting of several milestones:
+<!-- 
+`Assignment information here is likely suggestive of the final page, but remains subject to change.` -->
 
 - [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
 - [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
@@ -161,33 +79,79 @@ A small set of readings are assigned throughout the quarter, with additional res
 
 - [Reading Assignments]({{ site.baseurl }}/assignments/readings/)
 
+<!-- `Readings information will be released soon.` -->
+
+# Basic Information
+
+__Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
+
+__Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 OUG 136
+
+__Section Times & Locations__: 
+
+- Fridays, 10:30-11:20 MGH 295
+- Fridays, 11:30-12:20 MGH 295
+- Fridays, 1:30-2:20 MGH 295
+- Fridays, 2:30-3:20 MGH 295
+
+__Office Hours__: 
+
+Pre-scheduled hours are held by Katharina:
+
+- Katharina, Tuesdays 1:30 to 2:30, CSE 566
+
+Other meetings are possible by appointment. Please contact the TAs from your Friday sections.
+
+__Course Staff__:
+
+<html>
+  <div class="row">
+    <div class="col-md-2">
+      <p>Katharina Reinecke</p>
+      <p><img src="{{ site.baseurl }}/images/katharina_photo.jpg" width="150" alt="Katharina Reinecke"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Ashish Chaudhary</p>
+      <p><img src="{{ site.baseurl }}/images/ashish_photo.jpg" width="150" alt="Ashish Chaudhary"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Dhruv Jain</p>
+      <p><img src="{{ site.baseurl }}/images/dhruv_photo.jpg" width="150" alt="Dhruv Jain"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Nigini Oliveira</p>
+      <p><img src="{{ site.baseurl }}/images/nigini_photo.jpg" width="150" alt="Nigini Oliveira"/></p>
+    </div>
+    <div class="col-md-2">
+      <p>Manaswi Saha</p>
+      <p><img src="{{ site.baseurl }}/images/manaswi_photo.jpg" width="150" alt="Manaswi Saha"/></p>
+    </div>
+  </div>
+</html>
+
 # Grading
 
 Strive to do good work because you care about your own opportunities to learn,
 including the opportunities this course provides in working with a group in an intensive project.
 
-The overall course grade will be computed as follows:
+The overall course grade will be computed as follows (summing up to 100 points):
 
-- Group Project (__65%__)
-  - Assignment 1, Project Proposal (__3%__)
-  - Assignment 2, Getting the Right Design (__21%__)
-    - Milestones (__6%__)
-    - Final Report (__15%__)
-  - Assignment 3, Getting the Design Right (__14%__)
-    - Milestones (__4%__)
-    - Final Report (__10%__)
-  - Assignment 4, Communicating the Design (__15%__)
-    - Milestones (__3%__)
-    - Project Website (__4%__)
-    - Video Prototype (__4%__)
-    - Poster (__4%__)
-  - Presentations (__12%__)
-    - Getting the Right Design Presentation (__5%__)
-    - Getting the Design Right Presentation (__5%__)
-    - Individual Presentation Score (__2%__)
-- Exam (__25%__)
-- Individual Readings (__5%__)
-- Participation (__5%__)
+- Group Project (__60 points__)
+  - Assignment 1, Project Proposal (__5 points__)
+  - Assignment 2, Getting the Right Design (__20 points__)
+    - Milestones (__15 points__)
+    - Final Report (__5 points__)
+  - Assignment 3, Getting the Design Right (__15 points__)
+    - Milestones (__10 points__)
+    - Final Report (__5 points__)
+  - Assignment 4, Communicating the Design (__15 points__)
+    - Milestones (__5 points__)
+    - Project Website (__5 points__)
+    - Poster (__5 points__)
+  - Presentation (__5 points__)
+- Exam (__25 points__)
+- Individual Readings (__5 points__)
+- Participation (__10 points__)
 
 Each assignment will also provide a point breakdown intended to convey how it will be graded. 
 Design is an inherently subjective practice, and so grading in this course is necessarily subjective.
@@ -221,7 +185,6 @@ The course staff has a large number of submissions to manage, so format and comp
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse440/web-cse440-au17>
+<https://github.com/uwcse440/web-cse440-sp17>
 
 You can submit pull requests to update the webpage, and you will publish project webpages via pull request.
-

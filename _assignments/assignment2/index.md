@@ -2,39 +2,41 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-due_project_2a: Completed in section on Friday, October 6, 2017
-link_project_2a: https://canvas.uw.edu/courses/1173784/assignments/3914615
+due_project_2a: Uploaded Wednesday, April 12, 2017 (before class on Thursday, April 13, 2017)
+#link_project_2a: https://canvas.uw.edu/courses/1138137/assignments/3713961
 
-due_project_2b: Uploaded Monday, October 9, 2017 (before class on Tuesday, October 10, 2017)
-link_project_2b: https://canvas.uw.edu/courses/1173784/assignments/3914617
+due_project_2b: Completed in section, April 14, 2017 
+#link_project_2b: https://canvas.uw.edu/courses/1138137/assignments/3713963
+#link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
 
-due_project_2c: Uploaded Thursday, October 12, 2017 (before section on Friday, October 13, 2017)
-link_project_2c: https://canvas.uw.edu/courses/1173784/assignments/3914618
+due_project_2c: Uploaded Wednesday, April 19, 2017 (before class on Thursday, April 20, 2017)
+#link_project_2c: https://canvas.uw.edu/courses/1138137/assignments/3719419
 
-due_project_2d: Uploaded Monday, October 16, 2017 (before class on Tuesday, October 17, 2017)
-link_project_2d: https://canvas.uw.edu/courses/1173784/assignments/3914621
+due_project_2d: Uploaded Monday, April 24, 2017 (before class on Tuesday, January 25, 2017)
+#link_project_2d: https://canvas.uw.edu/courses/1138137/assignments/3719420
+#link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
 
-due_project_2e: Uploaded Thursday, October 19, 2017 (before class on Friday, October 20, 2017)
-link_project_2e: https://canvas.uw.edu/courses/1173784/assignments/3925217
+due_project_2e: Uploaded Wednesday, April 26, 2017 (before class on Thursday, April 27, 2017)
+#link_project_2e: https://canvas.uw.edu/courses/1138137/assignments/3719421
 
-due_project_2f: Uploaded Monday, October 23, 2017 (before class on Tuesday, October 24, 2017)
-link_project_2f: https://canvas.uw.edu/courses/1173784/assignments/3928244
+due_project_2f: Uploaded Friday, April 28, 2017
+#link_project_2f: https://canvas.uw.edu/courses/1138137/assignments/3719422
+#link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
 
-due_project_2g: Uploaded Thursday, October 26, 2017 (before section on Friday, October 27, 2017)
-link_project_2g: https://canvas.uw.edu/courses/1173784/assignments/3928291
+due_project_2g: Uploaded Wednesday, May 3, 2017 (before class on Thursday, May 4, 2017)
+#link_project_2g: https://canvas.uw.edu/courses/1138137/assignments/3719423
 
-due_project_2h: Uploaded Monday, October 30, 2017 (before class on Tuesday, October 31, 2017)
-link_project_2h: https://canvas.uw.edu/courses/1173784/assignments/3928295
+due_project_2h: Uploaded Friday, May 5, 2017
+#link_project_2h: https://canvas.uw.edu/courses/1138137/assignments/3719424
 
-due_project_2i: Uploaded Wednesday, November 1, 2017 (before class on Thursday, November 2, 2017 and section on Friday November 3, 2017)
-link_project_2i: https://canvas.uw.edu/courses/1173784/assignments/3928299
-
-due_project_2j: Submitted Saturday, November 4, 2017
+#due_project_2i: Uploaded Wednesday, February 8, 2017 (before class on Thursday, February 9, 2017 and section on Friday February 10, 2017)
+#link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
 
 ---
 
 <div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
+This page is still being migrated and developed.
+Information here is likely suggestive of the final page, but remains subject to change.
 </div>
 
 # Overview
@@ -43,22 +45,22 @@ Even for a well-understood, well-motivated problem, choosing a design to invest 
 This group assignment, spanning multiple weeks of the course, tackles the problem of selecting the right design through 
 __design research__, __task development__, __generating multiple potential designs__, and finally __selecting a design__ to pursue.
 
-This assignment is worth __21%__ of your overall course grade:
+This assignment is worth __20 out of 100 points__ of your overall course grade:
 
-- __15%__ for [Assignment 2h: Final Report](#final_report) 
-- __6%__ for the milestones 
-  - __0.5%__ for [Assignment 2a: Project Ideation](#project_ideation) 
-  - __0.5%__ for [Assignment 2b: Design Research Plan](#design_research_plan)
-  - __1%__ for [Assignment 2c: Design Research Check-In](#design_research_checkin)
-  - __1%__ for [Assignment 2d: Design Research Review](#design_research_review)
-  - __1%__ for [Assignment 2e: Task Review](#task_review)
-  - __1%__ for [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
-  - __1%__ for [Assignment 2g: Design Review ("1x2")](#design_review)
+- __15 points__ for the milestones 
+  - __1 point__ for [Assignment 2a: Project Ideation](#project_ideation) 
+  - __2 points__ for [Assignment 2b: Design Research Plan](#design_research_plan)
+  - __2 points__ for [Assignment 2c: Design Research Check-In](#design_research_checkin)
+  - __2 points__ for [Assignment 2d: Design Research Review](#design_research_review)
+  - __2 points__ for [Assignment 2e: Task Review](#task_review)
+  - __4 points__ for [Assignment 2f: Design Check-In ("3x4")](#design_checkin)
+  - __2 points__ for [Assignment 2g: Design Review ("1x2")](#design_review)
+- __5 points__ for [Assignment 2h: Final Report](#final_report) 
 
-The content of [Assignment 2i: Presentation](#presentation) is worth __5%__ of your overall course grade.
+<!-- The content of the associated presentation is worth __5%__ of your overall course grade.
 
-Your delivery of a presentation this quarter is worth __2%__ of your overall course grade.
-
+Your delivery of the associated presentation is worth __2%__ of your overall course grade.
+ -->
 # Milestones
 
 This is a group assignment, consisting of nine milestones.
@@ -95,13 +97,9 @@ This is a group assignment, consisting of nine milestones.
 
   Due: {{ page.due_project_2h }}
 
-* [Assignment 2i: Presentation](#presentation)
+<!-- * [Presentation](#presentation)
 
-  Due: {{ page.due_project_2i }}
-
-* [Assignment 2j: Team Peer Feedback](#team_peer_feedback)
-
-  Due: {{ page.due_project_2j }}
+  Due: {{ page.due_project_2i }} -->
 
 # Project Description
 
@@ -111,7 +109,7 @@ You will draw upon the ideas developed in your brainstorming and the observation
 to help develop a set of potential tasks your design might support. 
 You will next sketch how a set of initial designs might support those tasks.
 You will choose a design to pursue in the remainder of the course and storyboard the details of your design in the context of important tasks.
-Finally, you will present your design process in a report and presentation.
+Finally, you will present your design process in a report.
 
 More specifically, you will do the following:
 
@@ -156,9 +154,9 @@ More specifically, you will do the following:
 
    ([Assignment 2g](#design_review))
     
-6. Summarize your design process in a report and presentation.
+6. Summarize your design process in a report.
 
-   ([Assignment 2h](#final_report)), ([Presentation](#presentation))
+   ([Assignment 2h](#final_report)) <!--, ([Presentation](#presentation)) -->
 
 # Deliverables
 
@@ -168,44 +166,34 @@ More specifically, you will do the following:
 
 Due: {{ page.due_project_2a }}
 
-The goal of this milestone is to begin thinking about how to plan effective design research to inform your design process.
+The goal of this assignment is to begin thinking about how to plan effective design research to inform your design process.
 
 Generate 5 to 10 different ideas related to each of the following aspects of your project proposal:
-
-- Forms: types of technology on which a design might be developed (e.g., wearable sensors, watch/phone/tablet, desktop, appliances or other artifacts in the environment).
-- Data: types of data a design might track or help a person track.
-- Tasks: what a person might accomplish with a design. 
+- Forms: types of technology on which a design might be developed (e.g., desktop, phone/tablet, sensor, watch, wearable).
+- Interactions: types of social situations that a design might engage or support.
 - Features: a specific capability a design might have.
-- Social Interactions: types of social interactions and situations a design might engage or support.
+- Tasks: what a person might accomplish with a design. 
 
-We will provide large sheets of paper. Divide a large sheet of paper into 32 squares, each approximately 2in by 2in.
-Sketch your ideas, one in each square. Each idea should be either a quick doodle with a caption or a one-sentence idea. 
-A person familiar with your project but not in your group should be able to understand the idea each sketch conveys.
+Divide a large sheet of paper into 32 squares (or take two sheets of paper with 16 squares on each), each approximately 2in by 2in. Sketch your ideas, one in each square. Each idea should be either a quick doodle with a caption or a one-sentence idea. A person familiar with your project but not in your group should be able to understand the idea each sketch conveys.
 
-The goal is to begin exploring the space of possibilities, not attempting to polish some particular possibility. 
-Focus on the quantity of ideas, not the quality of any one idea. 
-You may include ideas from existing products. No two ideas should be alike.
-When you get stuck, find a context to inspire new ideas.
+The goal is to begin exploring the space of possibilities, not attempting to polish some particular possibility. Focus on the quantity of ideas, not the quality of any one idea. You may include ideas from existing products. No two ideas should be alike. When you get stuck, find a context to inspire new ideas.
 
-Given a space of possible directions, your project needs to begin to gather information on how to generate and consider ideas. 
-Following up on the above, additionally brainstorm:
- 
-- People: types of people you might work with to learn more.
-- Foci: potential foci you might apply in your learning.
+Given a space of possible directions, your project needs to begin to gather information on how to generate and consider ideas. While brainstorming design ideas consider the following in your design:
+People: the user group you have decided to focus on. Also include other types of people you might work with.
+Foci: potential foci you might apply in your learning.
 
 ### Submission
 
-At the end of section, capture and submit an image of your brainstorm.
+For the submission, capture and submit a legible image of your brainstorm. 
 
 Submit via Canvas here:
 
 {% if page.link_project_2a != nil %}<{{ page.link_project_2a }}>{% else %}`Link to be added`{% endif %}
 
-You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
 ### Grading
 
-This milestone will be graded on a scale of __3 points__ based on participation in generating ideas during the brainstorming exercise.
+This milestone will be graded on a scale of __3 points__ based on the ideas generated.
 
 <a name="design_research_plan"></a>
 
@@ -213,50 +201,16 @@ This milestone will be graded on a scale of __3 points__ based on participation 
 
 Due: {{ page.due_project_2b }}
 
-The goal of this milestone is to develop an initial plan for your design research.
+In one paragraph, describe the people who might use your design and other stakeholders for your design. Describe the particular design research methods and participants you plan to pursue, including such details as their background and the environment where you will observe their current practices. Give enough information to convince us that you can actually find and engage with your target participants in the next week.
 
-In one paragraph, describe the people who might use your design and other stakeholders to consider in your design. 
-Describe the particular design research methods and participants you plan to pursue,
-including such details as their background and the environment where you will examine their current practices.
-Give enough information to convince us that you can actually find and engage with your target participants in the next week.
+Be precise! For example, your target participants should not be “doctors” but instead a specific group of doctors (e.g., Family Practitioners in the UW Roosevelt Clinic). If gaining access to the target participants is non-trivial (e.g., as with busy doctors), describe the steps you have already taken to gain access and your plans to recover if you are unable to gain access. Indicate when you will be conducting your design research, being as specific as possible.
 
-- For example, your target participants should not be "doctors" but instead a specific group of doctors 
-  (e.g., Family Practitioners in the UW Roosevelt Clinic). 
-  If gaining access to the target participants is non-trivial (e.g., as with busy doctors), 
-  describe the steps you have already taken to gain access and your plans to recover if you are unable to gain access.
-  Indicate when you will be conducting your design research, being as specific as possible.
+In another paragraph, describe the ideal design research you would conduct. For this, list at least 3 research methods that would help you to engage with and learn from these people. 
 
-In another paragraph, describe the methods you will use to engage with and learn from these people.
-Our starting assumption is that you will conduct contextual inquiries with three participants.
-You can and should propose alternative or additional design research methods according to your needs.
-Please be as specific as possible, providing relevant details for you proposed methods. For example:
+In the final paragraph, describe which research method you will focus on for the purpose of this class (usually this will be one of the research methods listed in the second paragraph, but in some cases, you might decide that a fourth research method is more realistic). Describe why you chose this method for your user research plan.
 
-- If you propose contextual inquiries, discuss current behaviors you want to observe and your planned focus.
-- If you propose interviews, discuss the types of questions you plan to explore.
-- If you propose a diary study, discuss what type of data you plan to ask participants to bring or collect.
-
-On a second page, provide more detail regarding your primary proposed method. For example:
-
-- If you propose contextual inquiries, enumerate what activities you intend to observe, 
-  what focus you intend to bring to observation of each activity,
-  how you will approach the development of partnership, 
-  and any other strategies you intend to pursue for gaining insight through your observations.
-- If you propose interviews, give an example set of talking points, such as these
-  (note these are all longer than a page, but intended to illustrate a thorough script):
-  - [Menstrual Interview Protocol](https://canvas.uw.edu/files/44093099/download?download_frd=1)
-  - [Migraine Interview Protocol](https://canvas.uw.edu/files/44093100/download?download_frd=1)
-  - [Migraine Provider Protocol](https://canvas.uw.edu/files/44093101/download?download_frd=1)
-- If you propose a diary study, give details of what and how you will ask participants to diary.  
 
 ### Samples from Prior Offerings
-
-<div class="alert alert-warning" markdown="1">
-The request for more detail is a new part of this milestone, and does not appear in prior samples.
-
-Relative to prior plans, our goal in soliciting this additional detail is to:
-- Encourage you to work through more of the details.
-- Help improve those details through critique and peer feedback.
-</div>
 
 Samples from prior offerings include:
 
@@ -269,11 +223,25 @@ Be sure to understand and carefully consider project requirements and feedback f
 
 ### Submission
 
-No more than two pages of text in PDF format. Submit via Canvas here:
+No more than one page of text in PDF format. Submit via Canvas here:
 
 {% if page.link_project_2b != nil %}<{{ page.link_project_2b }}>{% else %}`Link to be added`{% endif %}
 
-Be prepared to discuss your design research with other teams and the course staff.
+In section, check with the course staff and be prepared to discuss your design research.
+
+{% comment %}
+### In-Class Peer Critique
+
+In lecture, be prepared to discuss the plan with other teams and the course staff.
+
+Be sure to take notes during critique. We will provide a worksheet you can use:
+
+[2b-critique-worksheet-ciplan.pdf]({{ site.baseurl }}/assignments/assignment2/2b-critique-worksheet-ciplan.pdf)
+
+After class, submit images of your notes in PDF format. Submit via Canvas here:
+
+{% if page.link_project_2b_critique != nil %}<{{ page.link_project_2b_critique }}>{% else %}`Link to be added`{% endif %}
+{% endcomment %}
 
 ### Grading
 
@@ -288,10 +256,6 @@ This milestone will be graded on a scale of __3 points__:
 ## 2c: Design Research Check-In
 
 Due: {{ page.due_project_2c }}
-
-The goal of this milestone is to begin your design research,
-reflect on what you observe and learn,
-then update your plans for additional design research.
 
 Complete design research with at least one participant prior to this check-in.
 You hopefully learned something about the needs of people who might use your design,
@@ -331,7 +295,7 @@ No more than one page of text in PDF format. Submit via Canvas here:
 Names of participants should be replaced with pseudonyms in all documents.
 It is important to protect participant anonymity, even in the case that reporting seems harmless.
 
-Be prepared to discuss your design research with other teams and the course staff.
+In class and section, be prepared to discuss your design research with other teams and the course staff.
 
 ### Grading
 
@@ -345,9 +309,6 @@ This milestone will be graded on a scale of __6 points__:
 ## 2d: Design Research Review
 
 Due: {{ page.due_project_2d }}
-
-The goal of this milestone is to reflect on what you observed and learned in your design research,
-organizing observations around themes to tasks to help inform your design.
 
 #### Themes
 
@@ -410,7 +371,21 @@ Submit via Canvas here:
 Names of participants should be replaced with pseudonyms in all documents.
 It is important to protect participant anonymity, even in the case that reporting seems harmless.
 
-Be prepared to discuss your design research with other teams and the course staff.
+In lecture, check with the course staff and be prepared to discuss your design research.
+
+{% comment %}
+### In-Class Peer Critique
+
+In lecture, be prepared to discuss your design research with other teams and the course staff.
+
+Be sure to take notes during critique. We will provide a worksheet you can use:
+
+[2d-critique-worksheet-cireview.pdf]({{ site.baseurl }}/assignments/assignment2/2d-critique-worksheet-cireview.pdf)
+
+After class, submit images of your notes in PDF format. Submit via Canvas here:
+
+{% if page.link_project_2d_critique != nil %}<{{ page.link_project_2d_critique }}>{% else %}`Link to be added`{% endif %}
+{% endcomment %}
 
 ### Grading
 
@@ -425,8 +400,6 @@ This milestone will be graded on a scale of __6 points__:
 
 Due: {{ page.due_project_2e }}
 
-The goal of this milestone is to develop a set of tasks that you will explore in a set of potential designs.
-
 Building on what you learned in your design research, design six tasks that you believe are integral to your overall design goal:
 
  - You should include existing tasks (i.e., tasks people already do) and new tasks (i.e., tasks that will be enabled by your design). 
@@ -435,7 +408,7 @@ Building on what you learned in your design research, design six tasks that you 
  - Your six tasks should span a wide range of functionality and difficulty, from easy to hard tasks.
 
 Each task should be described in text. Tasks say what is accomplished, leaving open how to accomplish it.
-Be sure that your task conveys a problem and what is accomplished, rather than a step-by-step walkthrough of scenario with a particular design.
+So be sure that your task conveys a problem and what is accomplished, rather than a step-by-step walkthrough of scenario with a particular design.
 
 ### Samples from Prior Offerings
 
@@ -458,7 +431,7 @@ Submit via Canvas here:
 
 {% if page.link_project_2e != nil %}<{{ page.link_project_2e }}>{% else %}`Link to be added`{% endif %}
 
-Be prepared to discuss your design research with other teams and the course staff.
+In section, be prepared to discuss your tasks with other teams and the course staff.
 
 ### Grading
 
@@ -471,8 +444,6 @@ This milestone will be graded on a scale of __6 points__:
 ## 2f: Design Check-In ("3x4")
 
 Due: {{ page.due_project_2f }}
-
-The goal of this milestone is to develop distinct design ideas that address your tasks.
 
 You have identified and described six important tasks for your design problem. 
 You will now brainstorm and sketch three very different initial designs for your interface:
@@ -513,7 +484,21 @@ Submit via Canvas here:
 
 {% if page.link_project_2f != nil %}<{{ page.link_project_2f }}>{% else %}`Link to be added`{% endif %}
 
-Be prepared to discuss your designs with other teams and the course staff.
+In lecture, check with the course staff and be prepared to discuss your designs.
+
+{% comment %}
+### In-Class Peer Critique
+
+In lecture, be prepared to discuss your design sketches with other teams and the course staff.
+
+Be sure to take notes during critique. We will provide a worksheet you can use:
+
+[2f-critique-worksheet-designcheckin.pdf]({{ site.baseurl }}/assignments/assignment2/2f-critique-worksheet-designcheckin.pdf)
+
+After class, submit images of your notes in PDF format. Submit via Canvas here:
+
+{% if page.link_project_2f_critique != nil %}<{{ page.link_project_2f_critique }}>{% else %}`Link to be added`{% endif %}
+{% endcomment %}
 
 ### Grading
 
@@ -526,8 +511,6 @@ This milestone will be graded on a scale of __6 points__:
 ## 2g: Design Review ("1x2")
 
 Due: {{ page.due_project_2g }}
-
-The goal of this milestone is to choose a design idea to pursue in the remainder of this course.
 
 From your design sketches, select one design that you will refine in the remainder of this course. 
 Then select two tasks that will be the focus of your design refinement. 
@@ -575,7 +558,7 @@ Submit via Canvas here:
 
 {% if page.link_project_2g != nil %}<{{ page.link_project_2g }}>{% else %}`Link to be added`{% endif %}
 
-Be prepared to discuss your choices and storyboards with other teams and the course staff.
+In section, be prepared to discuss your choices and storyboards with other teams and the course staff.
 
 ### Grading
 
@@ -590,8 +573,6 @@ This milestone will be graded on a scale of __6 points__:
 
 Due: {{ page.due_project_2h }}
 
-The goal of this milestone is to communicate the design research that motivates your design.
-
 Prepare a report documenting your process of getting the right design.
 Your report should follow the outline below, and will be graded using the guidelines that follow.
 The provided page allocations are estimates, intended to help convey how to divide up the space.
@@ -605,7 +586,7 @@ include how you have addressed and incorporated that feedback to improve relativ
 
    A short, creative, and marketable title capturing the key idea.
 
-2. __Each Team Member’s Name, and optionally Role(s)__
+2. __Each Team Member’s Name and Role(s)__
 
 3. __Problem and Solution Overview__: (1 paragraph)
 
@@ -658,10 +639,6 @@ Ensure your report is appropriately clear and easy to read. This includes:
  - refer to the figures in the body of your text
  - check for typos, spelling, and grammar errors
 
-Be sure your presentation looks good:
-
- - choose appropriate colors, fonts, and styles
- - make liberal use of whitespace 
 
 ### Samples from Prior Offerings
 
@@ -694,7 +671,7 @@ It is important to protect participant anonymity, even in the case that reportin
 This report will be graded on a scale of __25 points__:
 
 1.  __Title__: (1 point) 
-2.  __Team Member Names, and Optionally Roles__: (1 point)  
+2.  __Team Member Names and Roles__: (1 point)  
 3.  __Problem and Solution Overview__: (2 points) 
 4.  __Design Research Goals, Stakeholders, and Participants__: (2 points)
 5.  __Design Research Results and Themes__: (3 points)
@@ -702,120 +679,4 @@ This report will be graded on a scale of __25 points__:
 7.  __Proposed Design Sketches - "3x4"__: (3 points)
 8.  __Written Scenarios - "1x2"__: (3 points)
 9.  __Storyboards of the Selected Design__: (3 points)
-10. __Report Clarity and Presentation__: (4 points)
-
-<a name="presentation"></a>
-
-## 2i: Presentation
-
-Due: {{ page.due_project_2i }}
-
-Prepare a presentation of your process in getting the right design. It should encompass all of your work in Assignment 2.
-
-- Two members of your team should deliver the presentation, each speaking to relatively equal portions.
-- A seven minute time limit will be strictly enforced, with additional time for questions.
-
-A suggested organization of this presentation is:
-
-1. __Title__: 
- 
-   A short, creative, and marketable title capturing the key idea. Include team member names, and optionally include roles.
- 
-2. __Overall Problem__:  
-
-   Tell this as a story, instead of simply reading the slide. Motivate your audience to be interested in your problem.
-
-3. __Design Research__:
- 
-   Include images that give your audience a feeling for your fieldwork. Convey that you have seen and understand the challenge.
- 
-4. __6 Tasks__:
- 
-   At most one sentence per task. Convey the breadth of tasks you have considered.
- 
-5. __3 Design Sketches__: 
-
-   Convey the breadth of designs you considered.
-
-6. __Selected Design Storyboards and Tasks__:
- 
-   Convey your rationale for choosing a design focus.
-
-   Present your storyboards, ensuring they effectively illustrate your selected design and tasks.
- 
-7. __Summary__: 
-
-   Summarize the lessons learned in your design process.
-
-We strongly recommend rehearsing your presentation beforehand. 
-For example, arrange to practice together with another group or two, giving each other feedback on your presentations.
-
-Note that we have not provided recommendations for the number of slides in each section of this presentation.
-You can deliver your presentation using as many or as few slides as you want,
-as long as you successfully address the above points and the presentation falls within the time restriction.
-
-### Samples from Prior Offerings
-
-Samples from prior offerings include:
-
-{% for currentoffering in site.data.samples.offering %}{% for currentsample in site.data.samples[currentoffering.key] %}
-  -  {{ currentoffering.name }} - [{{ currentsample.name }}]({{ currentsample.link }}): [2i_{{ currentsample.suffix }}.pdf]({{ site.baseurl }}/samples/2i/2i_{{ currentsample.suffix }}.pdf){% endfor %}{% endfor %}
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-Also note these samples are intended to illustrate a variety of approaches, none of which is intended to be ideal or exemplary.
-Be sure to understand and carefully consider project requirements and feedback from the course staff in the context of your own work.
-
-### Submission
-
-Your presentation may be in PPT, PPTX, or PDF format. 
-
-To minimize switching time, we will have all presentations on a single laptop running Microsoft Windows.
-You should optimize your presentation for portability (e.g., ensure any necessary fonts are embedded).
-If we detect any obvious formatting issues on the presentation machine, we may fix them or contact you to fix them.
-But you are ultimately responsible for your presentation.
-
-Submit via Canvas here: 
-
-{% if page.link_project_2i != nil %}<{{ page.link_project_2i }}>{% else %}`Link to be added`{% endif %}
-
-Names of participants should be replaced with pseudonyms in all documents.
-It is important to protect participant anonymity, even in the case that reporting seems harmless.
-
-### In-Class Feedback Forms
-
-The course staff will have a feedback form they keep during your presentation:
-
-[2i-presentation-instructor-form.pdf]({{ site.baseurl }}/assignments/assignment2/2i-presentation-instructor-form.pdf)
-
-### Grading
-
-The content of this presentation will be graded on a scale of __10 points__:
-
-- Presentation shows appropriate preparation, with visual aids that are effective, properly prepared, and properly employed.
-- Slides are legible, such that people in the back of the room can still see them.
-- Presentation should not have an outline slide. It is short enough to be told as a story of your process.
-- Problem is presented in a manner that is compelling and achievable.
-- Design research is carried out in an appropriate manner.
-- Design research results are illuminating in terms of the problem.
-- Tasks presented provide coverage of the functionality.
-- Tasks were neither too easy nor too hard.
-- Tasks were motivated by the design research.
-- Design ideas have a strong connection to results of design research.
-- Design ideas are appropriate for the supported tasks.
-- Design ideas and storyboards were at the proper fidelity.
-- Presentation covered the required scope within the allowed time period.
-
-The delivery of this presentation will be graded on a scale of __4 points__:
-
-- Presenter makes eye contact with the audience.
-- Presenter projects their voice well and is audible throughout the room.
-- Presenter feels casual and engaged with the content, not just reading it.
-- Presentation covered the required scope within the allowed time period.
-
-<a name="team_peer_feedback"></a>
-
-## 2j: Team Peer Feedback
-
-Due: {{ page.due_project_2j }}
-
-Submit peer feedback using the form distributed to the class by email.
+10. __Report Clarity__: (4 points)
