@@ -124,7 +124,7 @@ __Course Staff__:
     </div>
     <div class="col-md-2">
       <p>Manaswi Saha</p>
-      <p><img src="{{ site.baseurl }}/images/manaswi_photo.jpg" width="150" alt="Manaswi Saha"/></p>
+      <p><img src="{{ site.baseurl }}/images/manaswi_photo.png" width="150" alt="Manaswi Saha"/></p>
     </div>
   </div>
 </html>
@@ -185,6 +185,6 @@ The course staff has a large number of submissions to manage, so format and comp
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse440/web-cse440-sp17>
+<https://github.com/uwcse440/web-cse440-wi18>
 
 You can submit pull requests to update the webpage, and you will publish project webpages via pull request.
