@@ -3,10 +3,6 @@ layout: base/bar/bar-sidebar-right
 title: Projects
 ---
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed. All content remains subject to change.
-</div>
-
 <div class="sidebar_start"></div>
 
 <div class="row">
@@ -15,16 +11,15 @@ This page is still being migrated and developed. All content remains subject to 
 <div class="panel-heading" markdown="block">
 ## Poster Session
 </div>
-
 <div class="panel-body" markdown="block">
 Please join us for a poster session celebrating the outstanding design work of CSE 440 students:
 {% comment %}
 Thank you for joining us to celebrate the outstanding design work of CSE 440 students:
 {% endcomment %}
 
-Thursday, December 14, 2017
+Tuesday, June 6
 
-11:15 am to 12:15pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
+11:00 am to 11:50pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
 
 <img src="{{ site.baseurl }}/images/poster_session.jpg" width="100%" alt="Poster Session"/>
 </div>
@@ -34,27 +29,33 @@ Thursday, December 14, 2017
 
 <div class="sidebar_end"></div>
 
+<div class="alert alert-danger" markdown="1">
+This page is still being migrated and developed.
+Information here is likely suggestive of the final page, but remains subject to change.
+</div>
+
 # Project Theme
 
-People have long sought to better understand themselves, but recently technology advances enable new approaches.
-Projects explored opportunities and challenges in self-tracking, also known as personal informatics:
 
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
+This year’s project theme will be “Designing for diversity”! You will be encouraged to design for groups of people who are different from yourself and/or to design for inclusiveness, connecting people from different backgrounds. 
 
-Self-tracking and personal informatics are closely related to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
+Computers and the Internet have changed many people's lives. However, many applications that we use in our daily lives are developed by Westerners and embed the developers' beliefs in what is useful and usable. 
+For example, Facebook is extremely popular in many Western countries, but has failed to attract a large user base in Russia. Facebook is also not as popular with elderly and teens as it is with people between 25 and 45 of age. Similarly, Uber and Lyft have gained much attraction with economically prosperous young professionals, but are often seen with suspicion in economically strained parts of the US. Most of these problems in designing adequate technology and gaining market share arise because designers and developers can be insufficiently aware of the beliefs, preferences, needs, and prior experiences of people who are different from themselves.
 
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
+Over the course of the quarter, you will work as a group on designing a system to an activity or relationship within the particular context of a group of people that is not particularly well supported by current tools. Example groups that you could design for are: 
+- Minorities 
+- Homeless
+- People with disabilities
+- People from different cultures
+- People with chronic conditions
+- Elderly
+- Local business owners
+- Workers
+- Interactions between these groups (or between yourselves and one of these groups)
 
-As a focus for Autumn 2017, students were asked to explore __tracking beyond the self__.
-Instead of limiting self-tracking to dashboards for an isolated self-analyst, 
-we asked students to consider the many different ways people might gather and interact around personal data.
-Students have examined the problems people encounter,
-then explored how new technology design help people in using data to reach their goals.
+As part of your project, you will need to define what a specific group's needs are that your project tries to support and what activity you would like to design that might help address this need.
+Think about how that activity is currently supported via technology, what doesn't work about current ways of supporting it, and how your solution will do this better. 
+The specificity of addressing a particular group of people allows you to deeply think about what makes the group unique and how you would best want to support them. So, dive in and see what you can come up with! 
 
 # Project Websites
 
@@ -80,15 +81,10 @@ Will be linked here as course projects are proposed and developed.
       <div class="thumbnailBox">
         {% if item_project.publishlink %}
         <a href="{{ site.baseurl }}/projects/{{ item_project.path }}/" target="_blank">
-        {% endif %}
-          {% capture thumb_exists %}{% file_exists projects/{{ item_project.path }}/project_thumb.png %}{% endcapture %}
-          {% if thumb_exists == "true" %}
-            <img src="{{ site.baseurl }}/projects/{{ item_project.path }}/project_thumb.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
-          {% else %}
-            <img src="{{ site.baseurl }}/projects/150x150.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
-          {% endif %}
-        {% if item_project.publishlink %}
+          <img src="{{ site.baseurl }}/projects/{{ item_project.path }}/project_thumb.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
         </a>
+        {% else %}
+          <img src="{{ site.baseurl }}/projects/{{ item_project.path }}/project_thumb.png" width="150" class="projectThumbnail" alt="{{ item_project.name }}"/>
         {% endif %}
       </div>
       {% assign row_current = forloop.index | minus: 1 | divided_by: 4 | plus: 1 %}
