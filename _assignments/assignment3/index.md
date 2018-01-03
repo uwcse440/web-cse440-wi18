@@ -2,26 +2,26 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
-due_project_3a: Uploaded Monday, May 8, 2017 (before class on Tuesday, May 9, 2017)
+due_project_3a: Uploaded Monday (due night before class), February 12, 2018
 #link_project_3a: https://canvas.uw.edu/courses/1138137/assignments/3728292
 
-due_project_3b: Uploaded Wednesday, May 10, 2017 (before class on Thursday, May 11, 2017)
+due_project_3b: Uploaded Wednesday (due night before class), February 14, 2018
 #link_project_3b: https://canvas.uw.edu/courses/1138137/assignments/3728293
 
-due_project_3c: Uploaded Friday, May 12, 2017
+due_project_3c: Uploaded Friday, February 16, 2018
 #link_project_3c: https://canvas.uw.edu/courses/1138137/assignments/3728295
 
-due_project_3d: Uploaded Monday, May 15, 2017 (before class on Tuesday, May 16, 2017)
+due_project_3d: Uploaded Monday (due night before class), February 19, 2018
 #link_project_3d: https://canvas.uw.edu/courses/1138137/assignments/3728297
 #link_project_3d_critique: https://canvas.uw.edu/courses/987987/assignments/3046463
 
-due_project_3e: Uploaded Friday, May 19, 2017
+due_project_3e: Uploaded Friday, February 23, 2018
 #link_project_3e: https://canvas.uw.edu/courses/1138137/assignments/3728299
 
-due_project_3f: Uploaded Friday, May 26, 2017
+due_project_3f: Uploaded Thursday (due night before section), Mar 1, 2018
 #link_project_3f: https://canvas.uw.edu/courses/1138137/assignments/3728301
 
-due_project_3g: Uploaded Monday, May 29, 2017 (before class on Tuesday, May 30, 2017)
+due_project_3g: Critique in section Friday, Mar 2, 2018
 #link_project_3g: https://canvas.uw.edu/courses/1138137/assignments/3728304
 
 ---

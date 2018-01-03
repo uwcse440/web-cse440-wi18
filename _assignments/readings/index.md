@@ -3,7 +3,7 @@ layout: base/bar/bar-sidebar-none
 title: "Readings"
 
 link_reading_empathy: https://canvas.uw.edu/courses/1138137/files?preview=41599091
-due_reading_empathy: Uploaded Thursday, April 13, 2017 (before section on Friday, April 14, 2017)
+due_reading_empathy: Uploaded Monday (due night before class), January 22, 2018
 link_reading_empathy_file_empathy: https://canvas.uw.edu/files/41599091/download?download_frd=1
 #link_reading_empathy_file_ideo_method_cards: https://canvas.uw.edu/files/40115291/download?download_frd=1
 #link_reading_empathy_file_universal_methods: https://canvas.uw.edu/files/39906877/download?download_frd=1
@@ -15,27 +15,15 @@ link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/42159629/
 link_reading_storyboarding_file_empirical: https://canvas.uw.edu/files/42159647/download?download_frd=1
 link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/42159644/download?download_frd=1
 link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/42159638/download?download_frd=1
-due_reading_storyboarding: Uploaded Tuesday, May 2, 2017
+due_reading_storyboarding: Uploaded Monday (due night before class), February 5, 2018
 
-link_reading_paper_prototyping: https://canvas.uw.edu/courses/1138137/assignments/3735329
+link_reading_usability_testing: https://canvas.uw.edu/courses/1138137/assignments/3735329
 link_reading_usability_testing_file: https://canvas.uw.edu/files/41702842/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
-#link_reading_paper_prototyping_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
-#link_reading_paper_prototyping_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
-due_reading_paper_prototyping: Uploaded Friday, May 12, 2017
-
-link_reading_patterns: https://canvas.uw.edu/courses/1098203/assignments/3608154
-link_reading_patterns_file_design_of_sites: https://canvas.uw.edu/files/40656356/download?download_frd=1
-due_reading_patterns: Uploaded Friday, February 24, 2017
-
-#link_reading_critique: https://canvas.uw.edu/courses/987987/assignments/3016470
-#date_reading_critique: Friday, October 16, 2015
-
-#link_reading_research_writeup: https://canvas.uw.edu/courses/987987/assignments/3046595
-#link_reading_research_paper: https://canvas.uw.edu/courses/987987/assignments/3046597
-#date_reading_research: Friday, December 4, 2015
----
+#link_reading_usability_testing_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
+#link_reading_usability_testing_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
+#link_reading_usability_testing_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
+#link_reading_usability_testing_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
+due_reading_usability_testing: Uploaded Thursday (due night before section), February 15, 2018
 
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
@@ -157,7 +145,7 @@ Submit via Canvas here:
 
 ### Reading 3: Usability Testing
 
-Due: {% if page.due_reading_paper_prototyping != nil %}{{ page.due_reading_paper_prototyping }}{% else %}`Date to be added`{% endif %}.
+Due: {% if page.due_reading_usability_testing != nil %}{{ page.due_reading_usability_testing }}{% else %}`Date to be added`{% endif %}.
 
 Read:
 
@@ -178,4 +166,4 @@ No more than one page of text in PDF format.
 
 Submit via Canvas here:
 
-{% if page.link_reading_paper_prototyping != nil %}<{{ page.link_reading_paper_prototyping }}>{% else %}`Link to be added`{% endif %}
+{% if page.link_reading_usability_testing != nil %}<{{ page.link_reading_usability_testing }}>{% else %}`Link to be added`{% endif %}

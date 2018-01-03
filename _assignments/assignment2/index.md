@@ -2,34 +2,34 @@
 layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-due_project_2a: Uploaded Wednesday, April 12, 2017 (before class on Thursday, April 13, 2017)
+due_project_2a: Completed in section Friday, January 19, 2018
 #link_project_2a: https://canvas.uw.edu/courses/1138137/assignments/3713961
 
-due_project_2b: Completed in section, April 14, 2017 
+due_project_2b: Uploaded Wednesday (due night before class), January 24, 2018 
 #link_project_2b: https://canvas.uw.edu/courses/1138137/assignments/3713963
 #link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
 
-due_project_2c: Uploaded Wednesday, April 19, 2017 (before class on Thursday, April 20, 2017)
+due_project_2c: Completed before section Friday, January 26, 2018
 #link_project_2c: https://canvas.uw.edu/courses/1138137/assignments/3719419
 
-due_project_2d: Uploaded Monday, April 24, 2017 (before class on Tuesday, January 25, 2017)
+due_project_2d: Uploaded Monday (due night before class), January 29, 2018
 #link_project_2d: https://canvas.uw.edu/courses/1138137/assignments/3719420
 #link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
 
-due_project_2e: Uploaded Wednesday, April 26, 2017 (before class on Thursday, April 27, 2017)
+due_project_2e: Uploaded Wednesday (due night before class), January 31, 2018
 #link_project_2e: https://canvas.uw.edu/courses/1138137/assignments/3719421
 
-due_project_2f: Uploaded Friday, April 28, 2017
+due_project_2f: Uploaded Thursday (due night before section), February 1, 2018
 #link_project_2f: https://canvas.uw.edu/courses/1138137/assignments/3719422
 #link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
 
-due_project_2g: Uploaded Wednesday, May 3, 2017 (before class on Thursday, May 4, 2017)
+due_project_2g: Uploaded Wednesday (due night before class), February 7, 2018
 #link_project_2g: https://canvas.uw.edu/courses/1138137/assignments/3719423
 
-due_project_2h: Uploaded Friday, May 5, 2017
+due_project_2h: Uploaded Friday, February 9, 2018
 #link_project_2h: https://canvas.uw.edu/courses/1138137/assignments/3719424
 
-#due_project_2i: Uploaded Wednesday, February 8, 2017 (before class on Thursday, February 9, 2017 and section on Friday February 10, 2017)
+#due_project_2i: 
 #link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
 
 ---
