@@ -24,12 +24,11 @@ link_reading_usability_testing_file: https://canvas.uw.edu/files/41702842/downlo
 #link_reading_usability_testing_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
 #link_reading_usability_testing_file_snyder: https://canvas.uw.edu/files/40281119/download?download_frd=1
 due_reading_usability_testing: Uploaded Thursday (due night before section), February 15, 2018
-
+---
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
 </div>
-
 # Overview
 
 Assigned readings are worth __5 out of 100 points__ of your overall course grade. 
