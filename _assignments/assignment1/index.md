@@ -3,13 +3,13 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
 due_project_1a: Uploaded Monday (due night before class), January 8, 2018
-#link_project_1a: https://canvas.uw.edu/courses/1138137/assignments/3689000
+link_project_1a: https://canvas.uw.edu/courses/1124153/assignments/3986557
 
 due_project_1b: Uploaded Friday, January 12, 2018 
-#link_project_1b: https://canvas.uw.edu/courses/1138137/assignments/3689054
+link_project_1b: https://canvas.uw.edu/courses/1124153/assignments/3986558
 
 due_project_1c: Uploaded Wednesday (due night before class), January 17, 2018
-#link_project_1c_bids: https://canvas.uw.edu/courses/1138137/assignments/3689056
+link_project_1c_bids: https://canvas.uw.edu/courses/1124153/assignments/3986559
 ---
 
 <div class="alert alert-danger" markdown="1">
