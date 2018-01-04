@@ -2,13 +2,13 @@
 layout: base/bar/bar-sidebar-none
 title: "Readings"
 
-link_reading_empathy: https://canvas.uw.edu/courses/1138137/files?preview=41599091
+link_reading_empathy: https://canvas.uw.edu/courses/1124153/assignments/3986580
 due_reading_empathy: Uploaded Monday (due night before class), January 22, 2018
-link_reading_empathy_file_empathy: https://canvas.uw.edu/files/41599091/download?download_frd=1
+link_reading_empathy_file_empathy: https://canvas.uw.edu/files/45715551/download?download_frd=1
 #link_reading_empathy_file_ideo_method_cards: https://canvas.uw.edu/files/40115291/download?download_frd=1
 #link_reading_empathy_file_universal_methods: https://canvas.uw.edu/files/39906877/download?download_frd=1
 
-link_reading_storyboarding: https://canvas.uw.edu/courses/1138137/assignments/3728281
+link_reading_storyboarding: https://canvas.uw.edu/courses/1124153/assignments/3986581
 link_reading_storyboarding_file_ux_comics: https://constructive.co/insights/ux-comics-visually-communicating-user-experiences/
 link_reading_storyboarding_file_sketching_excerpts: https://canvas.uw.edu/files/42159475/download?download_frd=1
 link_reading_storyboarding_file_sketching: https://canvas.uw.edu/files/42159629/download?download_frd=1
@@ -17,8 +17,8 @@ link_reading_storyboarding_file_storytelling: https://canvas.uw.edu/files/421596
 link_reading_storyboarding_file_understanding_comics: https://canvas.uw.edu/files/42159638/download?download_frd=1
 due_reading_storyboarding: Uploaded Monday (due night before class), February 5, 2018
 
-link_reading_usability_testing: https://canvas.uw.edu/courses/1138137/assignments/3735329
-link_reading_usability_testing_file: https://canvas.uw.edu/files/41702842/download?download_frd=1
+link_reading_usability_testing: https://canvas.uw.edu/courses/1124153/assignments/3986582
+link_reading_usability_testing_file: https://canvas.uw.edu/files/45715553/download?download_frd=1
 #link_reading_usability_testing_file_snyder_chapter4: https://canvas.uw.edu/files/40281115/download?download_frd=1
 #link_reading_usability_testing_file_snyder_chapter8: https://canvas.uw.edu/files/40281116/download?download_frd=1
 #link_reading_usability_testing_file_observing_users: https://canvas.uw.edu/files/40281118/download?download_frd=1
