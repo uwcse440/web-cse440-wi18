@@ -114,13 +114,6 @@ But you will ultimately follow your design process where it leads you, which may
 Focusing on problems and opportunities, rather than specific design features will leave room for your design
 to emerge and be refined in the course of this project.
 
-## Going Forward
-
-The course staff will select a subset of submitted proposals for sponsorship. Sponsored proposals will be posted,
-and students will then bid on the projects they want to pursue in this course. Your proposal is thus an effort to 
-convince both the staff and your classmates that a problem is interesting, tractable within the timeline and
-constraints of this course, and worthy of investigation.
-
 # Deliverables
 
 <a name="project_brainstorm"></a>
