@@ -114,7 +114,9 @@ constraints of this course, and worthy of investigation.
 
 Due: {{ page.due_project_1a }}
 
-Friday’s section will focus on brainstorming potential project directions. You will get started on thinking, and help seed this brainstorming, with some individual ideas.
+Friday's section will focus on brainstorming potential project directions. You will get started on thinking, and help seed this brainstorming project, with some individual ideas.
+
+You should upload the assignment individually, building on the ideas that your group had during the brainstorm in section. (It is okay to upload the same ideas as others in your group.)
 
 Propose three starting points for brainstorming domains, problems, and goals that fall within the realm of designing for diversity.
 
@@ -129,17 +131,13 @@ By domain, we mean an aspect of a community. Domains include:
 - Local business owners
 - Workers
 
-Be sure to focus on problems and goals, not potential design solutions.
-One way to help yourself identify a hierarchy of problems and goals is to ask "why?". For example:
+Be sure to focus on problems and goals, not potential design solutions. One way to help yourself identify a hierarchy of problems and goals is to ask "why?". For example:
 
 - Why is a person not using Facebook?
 - Why is a person unable to play shooter games?
 - Why do they want to keep up with the current technology?
 
-Each idea should be a single sentence, identifying the domain and the problem or goal.
-At most one of your ideas may come from any of the domains above.
-You other two ideas should be from domains not in this list, in order to broaden the brainstorm.
-Ensure the ideas are significantly different, not small variations on the same idea.
+Each idea should be a single sentence, identifying the domain and the problem or goal. At most one of your ideas may come from any of the domains above. Your other two ideas should be from domains not in this list, in order to broaden the brainstorm. Ensure the ideas are significantly different, not small variations on the same idea.
 
 ### Submission
 
