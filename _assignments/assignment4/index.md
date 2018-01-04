@@ -125,7 +125,7 @@ Be sure to understand and carefully consider project requirements and feedback f
 
 ### Submission
 
-Github repo: https://github.com/uwcse440/web-cse440-sp17
+Github repo: https://github.com/uwcse440/web-cse440-wi18
 
 Submit a pull request containing your website. We will merge as quickly as possible. 
 You can submit multiple requests as needed to fix issues or improve your website.
