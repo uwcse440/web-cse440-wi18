@@ -17,6 +17,21 @@ This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
 </div>
 
+<div class="alert alert-info" markdown="1">
+__Important!__ 
+
+This year we would like you to submit a contribution statement along with each group submission (for all assignments, not just for Assignment 1!). Include this contribution statement at the top of your submission, along with the names of your group members. Please note that we will not grade submissions where this statement is missing. 
+
+An example contribution statement for Assignment 1b is:  
+
+- Name 1: 40%, researched the background of the problem, outlined the content of the document, wrote the first version of one paragraph, also selected the images to be included
+- Name 2: 10%, proof-read the PDF, fixed several typos
+- Name 3: 25%, wrote the first version of the background section, made sure the final version got submitted
+- Name 4: 25%, organized the group meeting, researched the background of the problem, contributed to the formatting of the text
+
+Please know that we do not expect everyone to contribute equally to each assignment, but you should try to work as a team and support each other. You should also discuss and agree among each other what each of you contributed and how much this contributed to the overall assignments. We know these percentages are subjective and messy, so don’t overthink them (we wont either). 
+</div>
+
 # Overview
 
 You are to propose a __problem__ and an __approach__ that could form the basis of a project for this course.
