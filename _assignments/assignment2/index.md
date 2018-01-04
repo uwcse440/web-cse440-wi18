@@ -3,31 +3,31 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
 due_project_2a: Completed in section Friday, January 19, 2018
-#link_project_2a: https://canvas.uw.edu/courses/1138137/assignments/3713961
+link_project_2a: https://canvas.uw.edu/courses/1124153/assignments/3986560
 
 due_project_2b: Uploaded Wednesday (due night before class), January 24, 2018 
-#link_project_2b: https://canvas.uw.edu/courses/1138137/assignments/3713963
+link_project_2b: https://canvas.uw.edu/courses/1124153/assignments/3986561
 #link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
 
 due_project_2c: Completed before section Friday, January 26, 2018
-#link_project_2c: https://canvas.uw.edu/courses/1138137/assignments/3719419
+link_project_2c: https://canvas.uw.edu/courses/1124153/assignments/3986562
 
 due_project_2d: Uploaded Monday (due night before class), January 29, 2018
-#link_project_2d: https://canvas.uw.edu/courses/1138137/assignments/3719420
+link_project_2d: https://canvas.uw.edu/courses/1124153/assignments/3986563
 #link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
 
 due_project_2e: Uploaded Wednesday (due night before class), January 31, 2018
-#link_project_2e: https://canvas.uw.edu/courses/1138137/assignments/3719421
+link_project_2e: https://canvas.uw.edu/courses/1124153/assignments/3986564
 
 due_project_2f: Uploaded Thursday (due night before section), February 1, 2018
-#link_project_2f: https://canvas.uw.edu/courses/1138137/assignments/3719422
+link_project_2f: https://canvas.uw.edu/courses/1124153/assignments/3986565
 #link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
 
 due_project_2g: Uploaded Wednesday (due night before class), February 7, 2018
-#link_project_2g: https://canvas.uw.edu/courses/1138137/assignments/3719423
+link_project_2g: https://canvas.uw.edu/courses/1124153/assignments/3986566
 
 due_project_2h: Uploaded Friday, February 9, 2018
-#link_project_2h: https://canvas.uw.edu/courses/1138137/assignments/3719424
+link_project_2h: https://canvas.uw.edu/courses/1124153/assignments/3986567
 
 #due_project_2i: 
 #link_project_2i: https://canvas.uw.edu/courses/1098203/assignments/3577784
