@@ -3,26 +3,26 @@ layout: base/bar/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
 due_project_3a: Uploaded Monday (due night before class), February 12, 2018
-#link_project_3a: https://canvas.uw.edu/courses/1138137/assignments/3728292
+link_project_3a: https://canvas.uw.edu/courses/1124153/assignments/3986568
 
 due_project_3b: Uploaded Wednesday (due night before class), February 14, 2018
-#link_project_3b: https://canvas.uw.edu/courses/1138137/assignments/3728293
+link_project_3b: https://canvas.uw.edu/courses/1124153/assignments/3986569
 
 due_project_3c: Uploaded Friday, February 16, 2018
-#link_project_3c: https://canvas.uw.edu/courses/1138137/assignments/3728295
+link_project_3c: https://canvas.uw.edu/courses/1124153/assignments/3986570
 
 due_project_3d: Uploaded Monday (due night before class), February 19, 2018
-#link_project_3d: https://canvas.uw.edu/courses/1138137/assignments/3728297
+link_project_3d: https://canvas.uw.edu/courses/1124153/assignments/3986571
 #link_project_3d_critique: https://canvas.uw.edu/courses/987987/assignments/3046463
 
 due_project_3e: Uploaded Friday, February 23, 2018
-#link_project_3e: https://canvas.uw.edu/courses/1138137/assignments/3728299
+link_project_3e: https://canvas.uw.edu/courses/1124153/assignments/3986572
 
 due_project_3f: Uploaded Thursday (due night before section), Mar 1, 2018
-#link_project_3f: https://canvas.uw.edu/courses/1138137/assignments/3728301
+link_project_3f: https://canvas.uw.edu/courses/1124153/assignments/3986573
 
 due_project_3g: Critique in section Friday, Mar 2, 2018
-#link_project_3g: https://canvas.uw.edu/courses/1138137/assignments/3728304
+link_project_3g: https://canvas.uw.edu/courses/1124153/assignments/3986579
 
 ---
 
