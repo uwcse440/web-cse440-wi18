@@ -48,7 +48,7 @@ This assignment is worth __5 out of 100 points__ of your overall course grade:
 
 This is an individual assignment, consisting of three milestones.
 
-* [Assignment 1a: Proposal Brainstorm](#project_brainstorm)
+* [Assignment 1a: Project Brainstorm](#project_brainstorm)
 
   Due: {{ page.due_project_1a }}
   
