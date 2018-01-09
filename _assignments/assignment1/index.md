@@ -161,9 +161,9 @@ In section, be prepared to contribute your initial ideas as part of a larger bra
 
 ### Grading
 
-This milestone will be graded on a scale of __3 points__:
+This milestone will be graded on a scale of __1 point__:
 
-- 1 point for each unique proposed idea (i.e., do not submit small variations on the same idea).
+- 0.33 points for each unique proposed idea (i.e., do not submit small variations on the same idea).
 
 <a name="project_proposal"></a>
 
@@ -222,12 +222,12 @@ Submit via Canvas here:
 
 ### Grading
 
-This proposal will be graded on a scale of __10 points__:
+This proposal will be graded on a scale of __3 points__:
 
-1. __Problem and Motivation__: (3 points)
-2. __Analysis of Problem__: (3 points)
-3. __Novelty and Creativity__: (2 points)
-4. __Report Clarity and Presentation__: (2 points)
+1. __Problem and Motivation__: (1 points)
+2. __Analysis of Problem__: (1 points)
+3. __Novelty and Creativity__: (0.5 points)
+4. __Report Clarity and Presentation__: (0.5 points)
 
 <a name="revised_proposal"></a>
 
@@ -247,8 +247,8 @@ The submission should describe the changes made from the previous verion on the 
 
 ### Grading
 
-The revised proposal will be graded on a scale of __6 points__:
+The revised proposal will be graded on a scale of __1 point__:
 
-1. __Changes explained__: (1.5 points)
-2. __Proposal Revision__: (3 points)
-3. __Report Clarity and Presentation__: (1.5 points)
+1. __Changes explained__: (0.25 points)
+2. __Proposal Revision__: (0.5 points)
+3. __Report Clarity and Presentation__: (0.25 points)
