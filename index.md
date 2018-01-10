@@ -83,7 +83,7 @@ A small set of readings are assigned throughout the quarter, with additional res
 
 # Basic Information
 
-__Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
+__Contact__: Email all instructors at cse440-staff [at] cs.washington.edu
 
 __Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 OUG 136
 
