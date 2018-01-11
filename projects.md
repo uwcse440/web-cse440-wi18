@@ -29,10 +29,10 @@ Tuesday, June 6
 
 <div class="sidebar_end"></div>
 
-<div class="alert alert-danger" markdown="1">
+<!--div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div>
+</div-->
 
 # Project Theme
 

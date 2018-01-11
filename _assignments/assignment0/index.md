@@ -6,9 +6,9 @@ link_assignment_0: https://canvas.uw.edu/courses/1173784/assignments/3911334
 date_assignment_0: Uploaded Thursday, October 5, 2017
 ---
 
-<div class="alert alert-danger" markdown="1">
+<!--div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
-</div>
+</div-->
 
 # Overview
 

@@ -12,10 +12,10 @@ due_project_1c: Uploaded Wednesday (due night before class), January 17, 2018
 link_project_1c_bids: https://canvas.uw.edu/courses/1124153/assignments/3986559
 ---
 
-<div class="alert alert-danger" markdown="1">
+<!--div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div>
+</div-->
 
 <div class="alert alert-info" markdown="1">
 __Important!__ 

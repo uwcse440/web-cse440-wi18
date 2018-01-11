@@ -16,13 +16,13 @@ title: Calendar
 
 <div class="calendar">
 
-<div class="row week">
+<!--div class="row week">
 <div class="col-xs-12">
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
 </div>
-</div>
+</div-->
 
   {% for currentdaynum in (0..numdays) %}
     {% assign currentdateseconds = currentdaynum | times: 86400 | plus: 3600 | plus: startdateseconds %}
