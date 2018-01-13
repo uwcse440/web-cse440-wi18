@@ -46,7 +46,7 @@ This assignment is worth __5 out of 100 points__ of your overall course grade:
 
 # Milestones
 
-This is an individual assignment, consisting of three milestones.
+This assignment consists of three milestones.
 
 * [Assignment 1a: Project Brainstorm](#project_brainstorm)
 
