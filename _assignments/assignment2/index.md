@@ -12,14 +12,14 @@ link_project_2b: https://canvas.uw.edu/courses/1124153/assignments/3986561
 due_project_2c: Completed before section Friday, January 26, 2018
 link_project_2c: https://canvas.uw.edu/courses/1124153/assignments/3986562
 
-due_project_2d: Uploaded Monday (due night before class), January 29, 2018
+due_project_2d: Uploaded Wednesday (due night before class), January 31, 2018
 link_project_2d: https://canvas.uw.edu/courses/1124153/assignments/3986563
 #link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
 
-due_project_2e: Uploaded Wednesday (due night before class), January 31, 2018
+due_project_2e: Uploaded Thursday (due night before section), February 1, 2018
 link_project_2e: https://canvas.uw.edu/courses/1124153/assignments/3986564
 
-due_project_2f: Uploaded Thursday (due night before section), February 1, 2018
+due_project_2f: Completed in section Friday, February 2, 2018
 link_project_2f: https://canvas.uw.edu/courses/1124153/assignments/3986565
 #link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
 
@@ -34,10 +34,10 @@ link_project_2h: https://canvas.uw.edu/courses/1124153/assignments/3986567
 
 ---
 
-<div class="alert alert-danger" markdown="1">
+<!--div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed.
 Information here is likely suggestive of the final page, but remains subject to change.
-</div>
+</div-->
 
 # Overview
 
