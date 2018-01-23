@@ -193,7 +193,7 @@ Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __3 points__ based on the ideas generated.
+This milestone will be graded on a scale of __1 points__ based on the ideas generated.
 
 <a name="design_research_plan"></a>
 
@@ -245,10 +245,10 @@ After class, submit images of your notes in PDF format. Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __3 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __People and Plan__: (1 point)
-2. __Feasibility__: (1 point)
+1. __People and Plan__: (0.5 point)
+2. __Feasibility__: (0.5 point)
 3. __Specificity__: (1 point)
 
 <a name="design_research_checkin"></a>
@@ -299,10 +299,10 @@ In class and section, be prepared to discuss your design research with other tea
 
 ### Grading
 
-This milestone will be graded on a scale of __6 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Information from First Participant__: (3 points)
-2. __Plan for Remaining Participants__: (3 points)
+1. __Information from First Participant__: (1 points)
+2. __Plan for Remaining Participants__: (1 points)
 
 <a name="design_research_review"></a>
 
@@ -389,10 +389,10 @@ After class, submit images of your notes in PDF format. Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __6 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Description of Participants and Quality of Themes Developed__: (3 points)
-2. __Answers to Task Analysis Questions__: (3 points)
+1. __Description of Participants and Quality of Themes Developed__: (1 points)
+2. __Answers to Task Analysis Questions__: (1 points)
 
 <a name="task_review"></a>
 
@@ -435,9 +435,9 @@ In section, be prepared to discuss your tasks with other teams and the course st
 
 ### Grading
 
-This milestone will be graded on a scale of __6 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Each of 6 Tasks__: (1 point)
+1. __Each of 6 Tasks__: (.33 point)
 
 <a name="design_checkin"></a>
 
@@ -502,9 +502,9 @@ After class, submit images of your notes in PDF format. Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __6 points__:
+This milestone will be graded on a scale of __4 points__:
 
-1. __Each of 3 Designs__: (2 points)
+1. __Each of 3 Designs__: (0.75 points)
 
 <a name="design_review"></a>
 
@@ -562,10 +562,10 @@ In section, be prepared to discuss your choices and storyboards with other teams
 
 ### Grading
 
-This milestone will be graded on a scale of __6 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Rationale for Choosing a Design Focus__: (2 points)
-2. __Each of 2 Storyboards__: (2 points)
+1. __Rationale for Choosing a Design Focus__: (1 points)
+2. __Each of 2 Storyboards__: (1 points)
 
 <a name="final_report">
 
@@ -668,15 +668,15 @@ It is important to protect participant anonymity, even in the case that reportin
 
 ### Grading
 
-This report will be graded on a scale of __25 points__:
+This report will be graded on a scale of __5 points__:
 
-1.  __Title__: (1 point) 
-2.  __Team Member Names and Roles__: (1 point)  
-3.  __Problem and Solution Overview__: (2 points) 
-4.  __Design Research Goals, Stakeholders, and Participants__: (2 points)
-5.  __Design Research Results and Themes__: (3 points)
-6.  __Answers to Task Analysis Questions__: (3 points)
-7.  __Proposed Design Sketches - "3x4"__: (3 points)
-8.  __Written Scenarios - "1x2"__: (3 points)
-9.  __Storyboards of the Selected Design__: (3 points)
-10. __Report Clarity__: (4 points)
+1.  __Title__: (0.2 point) 
+2.  __Team Member Names and Roles__: (0.2 point)  
+3.  __Problem and Solution Overview__: (0.4 points) 
+4.  __Design Research Goals, Stakeholders, and Participants__: (0.4 points)
+5.  __Design Research Results and Themes__: (0.6 points)
+6.  __Answers to Task Analysis Questions__: (0.6 points)
+7.  __Proposed Design Sketches - "3x4"__: (0.6 points)
+8.  __Written Scenarios - "1x2"__: (0.6 points)
+9.  __Storyboards of the Selected Design__: (0.6 points)
+10. __Report Clarity__: (0.8 points)
