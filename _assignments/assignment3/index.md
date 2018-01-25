@@ -227,10 +227,10 @@ Bring your prototype to class. You will need it to conduct Heuristic Evaluation.
 
 ### Grading
 
-This milestone will be graded on a scale of __9 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Overall Completeness and Appropriateness of Paper Prototype__: (3 points)
-2. __Completeness, Appropriateness, and Documentation of Each Task__: (3 points per task)
+1. __Overall Completeness and Appropriateness of Paper Prototype__: (0.67 points)
+2. __Completeness, Appropriateness, and Documentation of Each Task__: (0.67 points per task)
 
 <a name="heuristic_evaluation"></a>
 
@@ -278,9 +278,9 @@ Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __6 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Participation of Each Half-Team__: (3 points per half-team)
+1. __Participation of Each Half-Team__: (1 point per half-team)
 
 <a name="usability_testing_checkin"></a>
 
@@ -345,12 +345,12 @@ Also bring your prototype to section. You will need it to demonstrate for critiq
 
 ### Grading
 
-This milestone will be graded on a scale of __12 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Issues Identified from Inspection, Revisions Made in Response__: (3 points)
-2. __Discussion of Usability Test and Plan__: (3 points)
-3. __Issues Identified in Usability Test, Revisions Made in Response__: (3 points)
-4. __Updated Images of Paper Prototype__: (3 points)
+1. __Issues Identified from Inspection, Revisions Made in Response__: (0.5 points)
+2. __Discussion of Usability Test and Plan__: (0.5 points)
+3. __Issues Identified in Usability Test, Revisions Made in Response__: (0.5 points)
+4. __Updated Images of Paper Prototype__: (0.5 points)
 
 <a name="usability_testing_review"></a>
 
@@ -419,12 +419,12 @@ After class, submit images of your notes in PDF format. Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __12 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Discussion of Usability Tests and Plan__: (3 points)
-2. __Issues Identified in Usability Tests, Revisions Made in Response__: (3 points)
-3. __Updated Images of Paper Prototype__: (3 points)
-4. __Discussion of Key Revisions in Design Process__: (3 points)
+1. __Discussion of Usability Tests and Plan__: (0.5 points)
+2. __Issues Identified in Usability Tests, Revisions Made in Response__: (0.5 points)
+3. __Updated Images of Paper Prototype__: (0.5 points)
+4. __Discussion of Key Revisions in Design Process__: (0.5 points)
 
 <a name="digital_mockup"></a>
 
@@ -472,11 +472,11 @@ Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __12 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1. __Overall Completeness and Appropriateness of Digital Mockup__: (3 points)
-2. __Completeness, Appropriateness, and Documentation of Each Task__: (3 points each)
-3. __Discussion of Decisions and Changes in Implementation__: (3 points)
+1. __Overall Completeness and Appropriateness of Digital Mockup__: (0.5 points)
+2. __Completeness, Appropriateness, and Documentation of Each Task__: (0.5 points each)
+3. __Discussion of Decisions and Changes in Implementation__: (0.5 points)
 
 <a name="final_report"></a>
 
@@ -575,18 +575,18 @@ Submit via Canvas here:
 
 ### Grading
 
-This report will be graded on a scale of __25 points__:
+This report will be graded on a scale of __5 points__:
 
-1.  __Title__: (1 point) 
-2.  __Team Member Names and Roles__: (1 point)  
-3.  __Problem and Solution Overview__: (2 points)
-4.  __Initial Paper Prototype__: (3 points)
-5.  __Testing Process__: (2 points)
-6.  __Testing Results__: (3 points)
-7.  __Final Paper Prototype__: (3 points)
-8.  __Digital Mockup__: (3 points)
-9.  __Discussion__: (3 points)
-10. __Report Clarity and Presentation__: (4 points)
+1.  __Title__: (0.2 points) 
+2.  __Team Member Names and Roles__: (0.2 points)  
+3.  __Problem and Solution Overview__: (0.4 points)
+4.  __Initial Paper Prototype__: (0.6 points)
+5.  __Testing Process__: (0.4 points)
+6.  __Testing Results__: (0.6 points)
+7.  __Final Paper Prototype__: (0.6 points)
+8.  __Digital Mockup__: (0.6 points)
+9.  __Discussion__: (0.6 points)
+10. __Report Clarity and Presentation__: (0.8 points)
 
 <a name="presentation"></a>
 
