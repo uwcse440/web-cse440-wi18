@@ -229,7 +229,7 @@ Bring your prototype to class. You will need it to conduct Heuristic Evaluation.
 
 This milestone will be graded on a scale of __2 points__:
 
-1. __Overall Completeness and Appropriateness of Paper Prototype__: (0.67 points)
+1. __Overall Completeness and Appropriateness of Paper Prototype__: (0.66 points)
 2. __Completeness, Appropriateness, and Documentation of Each Task__: (0.67 points per task)
 
 <a name="heuristic_evaluation"></a>
