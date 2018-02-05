@@ -18,7 +18,7 @@ link_project_3d: https://canvas.uw.edu/courses/1124153/assignments/3986571
 due_project_3e: Uploaded Friday, February 23, 2018
 link_project_3e: https://canvas.uw.edu/courses/1124153/assignments/3986572
 
-due_project_3f: Uploaded Thursday (due night before section), Mar 1, 2018
+due_project_3f: Uploaded Friday, Mar 2, 2018
 link_project_3f: https://canvas.uw.edu/courses/1124153/assignments/3986573
 
 due_project_3g: Critique in section Friday, Mar 2, 2018
