@@ -106,10 +106,13 @@ lectures:
     name: "Interface Implementation"
     #slides: "slides/lecture/l15-designingfordiverseneeds.pdf"
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33a018b1-c498-44cd-9edf-30e238a6656d"
+  - date: "2018-02-22"
+    name: "Peer Feedback and Q&A Session"
   - date: "2018-02-27"
     name: "Communicating your Work"
     #slides: "slides/lecture/l17-videos.pdf"
-    #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"
+    #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"  
+    
 
 sections:
   - date: "2018-01-05"
