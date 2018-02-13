@@ -43,8 +43,8 @@ This assignment is worth __15 out of 100 points__ of your overall course grade:
 - __10 points__ for the milestones 
   - __2 points__ for [Assignment 3a: Paper Prototype](#paper_prototype) 
   - __2 points__ for [Assignment 3b: Heuristic Evaluation](#heuristic_evaluation) 
-  - __2 points__ for [Assignment 3c: Usability Testing Check-In](#usability_testing) 
-  - __2 points__ for [Assignment 3d: Usability Testing Review](#usability_testing) 
+  - __2 points__ for [Assignment 3c: Usability Testing Check-In](#usability_testing_checkin) 
+  - __2 points__ for [Assignment 3d: Usability Testing Review](#usability_testing_review) 
   - __2 points__ for [Assignment 3e: Digital Mockup](#digital_mockup)
 - __5 points__ for [Assignment 3f: Final Report](#final_report) 
   
