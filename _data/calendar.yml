@@ -108,6 +108,8 @@ lectures:
     #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33a018b1-c498-44cd-9edf-30e238a6656d"
   - date: "2018-02-22"
     name: "Accessibility"
+    #slides: "slides/lecture/l17-videos.pdf"
+    #panopto: "https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d54897-953d-4b90-a841-7e1e0c14145f"  
   - date: "2018-02-27"
     name: "Recap and Exam Q&A Session"
     #slides: "slides/lecture/l17-videos.pdf"
