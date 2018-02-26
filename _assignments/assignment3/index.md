@@ -674,7 +674,7 @@ The course staff will have a feedback form they keep during your presentation:
 
 ### Grading
 
-The content of this presentation will be graded on a scale of __10 points__:
+The content of this presentation will be graded on a scale of __5 points__:
 
 - Presentation shows appropriate preparation, with visual aids that are effective, properly prepared, and properly employed.
 - Slides are legible, such that people in the back of the room can still see them.
