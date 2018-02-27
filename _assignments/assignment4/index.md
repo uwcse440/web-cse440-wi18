@@ -34,8 +34,7 @@ This assignment is worth __15 out of 100 points__ of your overall course grade:
 
 - __5 points__ for the milestones 
   - __3 points__ for [Assignment 4a: Initial Website](#initial_website)
-  - __1 point__ for [Assignment 4b: Poster Critique and Pitch](#poster_pitch)
-  - __1 point__ for [Assignment 4c: Communication Critique](#communication_critique)
+  - __2 point__ for [Assignment 4b: Poster Critique and Pitch](#poster_pitch)
 - __5 points__ for [Assignment 4d: Final Website](#final_everything)
 - __5 points__ for [Assignment 4d: Final Poster](#final_everything)
 
@@ -140,11 +139,11 @@ If you are absolutely unable to submit a pull request, submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __8 points__:
+This milestone will be graded on a scale of __3 points__:
 
-1.  __Completeness of Content__: (3 points)
-2.  __Appropriately Polished Presentation__: (3 points)
-3.  __Submitted via Pull Request__: (2 points)
+1.  __Completeness of Content__: (1 point)
+2.  __Appropriately Polished Presentation__: (1 point)
+3.  __Submitted via Pull Request__: (1 point)
 
 Your website should be complete and will be evaluated as such.
 But later critique and refinement will help further improve it before the final poster session.
@@ -204,10 +203,10 @@ Be prepared to give your elevator pitch in class.
 
 ### Grading
 
-This milestone will be graded on a scale of __6 points__:
+This milestone will be graded on a scale of __2 points__:
 
-1.  __Initial Poster__: (3 points)
-2.  __Initial Pitch__: (3 points)
+1.  __Initial Poster__: (1 point)
+2.  __Initial Pitch__: (1 point)
 
 <a name="communication_critique"></a>
 
@@ -255,15 +254,15 @@ We therefore explicitly ask that final videos also be submitted via Canvas here:
 
 ### Grading
 
-Your final website and final poster will each be graded on a scale of __10 points__.
+Your final website and final poster will each be graded on a scale of __5 points__.
 
 #### Poster
 
-- __Content__: (5 points)
-  - Includes all of the points listed above
+- __Content__: (2.5 points)
+  - Includes all of the points listed in 4b "You poster should include: ..."
   - Key features of the design are clear
   - Gives insight into the design process
-- __Presentation__: (5 points)
+- __Presentation__: (2.5 points)
   - Large images that show the key parts of the design
   - Only minimal and appropriate use of text
   - Text is large and legible
@@ -272,12 +271,12 @@ Your final website and final poster will each be graded on a scale of __10 point
 
 #### Website
 
-- __Content__: (5 points)
-  - Includes all of the points listed above
+- __Content__: (2.5 points)
+  - Includes all of the points listed in 4b "You poster should include: ..."
   - Key features of the design are clear
   - Gives insight into the design process
   - Links to your reports
-- __Presentation__: (5 points)
+- __Presentation__: (2.5 points)
   - Looks professional and is something you would consider including in a design portfolio
 
 <a name="poster_session"></a>

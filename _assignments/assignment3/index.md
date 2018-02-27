@@ -26,11 +26,6 @@ link_project_3g: https://canvas.uw.edu/courses/1124153/assignments/3986579
 
 ---
 
-<div class="alert alert-danger" markdown="1">
-This page is still being migrated and developed.
-Information here is likely suggestive of the final page, but remains subject to change.
-</div>
-
 # Overview
 
 Now that you have chosen a design, it is time to iteratively refine that design.
@@ -665,12 +660,6 @@ But you are ultimately responsible for your presentation.
 Submit via Canvas here: 
 
 {% if page.link_project_3g != nil %}<{{ page.link_project_3g }}>{% else %}`Link to be added`{% endif %}
-
-### In-Class Feedback Forms
-
-The course staff will have a feedback form they keep during your presentation:
-
-[3g-presentation-instructor-form.pdf]({{ site.baseurl }}/assignments/assignment3/3g-presentation-instructor-form.pdf)
 
 ### Grading
 
