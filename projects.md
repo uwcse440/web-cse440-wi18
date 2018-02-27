@@ -17,9 +17,9 @@ Please join us for a poster session celebrating the outstanding design work of C
 Thank you for joining us to celebrate the outstanding design work of CSE 440 students:
 {% endcomment %}
 
-Tuesday, June 6
+Monday, March 12
 
-11:00 am to 11:50pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
+10:45am to 12:20pm, [CSE Atrium](http://www.washington.edu/maps/#!/cse)
 
 <img src="{{ site.baseurl }}/images/poster_session.jpg" width="100%" alt="Poster Session"/>
 </div>
