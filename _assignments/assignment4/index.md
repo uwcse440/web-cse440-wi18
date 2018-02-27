@@ -259,7 +259,7 @@ Your final website and final poster will each be graded on a scale of __5 points
 #### Poster
 
 - __Content__: (2.5 points)
-  - Includes all of the points listed in 4b "You poster should include: ..."
+  - Includes all of the points listed in 4b, "You poster should include: ..."
   - Key features of the design are clear
   - Gives insight into the design process
 - __Presentation__: (2.5 points)
@@ -272,7 +272,7 @@ Your final website and final poster will each be graded on a scale of __5 points
 #### Website
 
 - __Content__: (2.5 points)
-  - Includes all of the points listed in 4b "You poster should include: ..."
+  - Includes all of the points listed in 4b, "You poster should include: ..."
   - Key features of the design are clear
   - Gives insight into the design process
   - Links to your reports
