@@ -8,8 +8,8 @@ locations:
       location: "OUG 136"
 
   exam:
-    - time: "12:00 - 1:20"
-      #location: "DEN 303"
+    - time: "10:30 - 11:50"
+      location: "ARC 147"
 
   sections:
     - time: "10:30 - 11:20"
@@ -232,7 +232,7 @@ majors:
     #link: "assignments/assignment3/#presentation"
   - date: "2018-03-01"
     name: "Exam"
-    #location: "exam"
+    location: "exam"
     #link: "slides/lecture/cse440-consolidated-17au.pdf"
   - date: "2018-03-12"
     name: "Poster Session"
