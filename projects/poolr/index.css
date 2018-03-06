@@ -1,89 +1,120 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  padding: 0;
 }
 
-#top {
-  height: 750px;
+#menu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  list-style-type: none;
+  background-color: #fff;
+}
+
+#menu li {
+  float: left;
+}
+
+#menu li a {
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+  color: #999;
+}
+
+#menu li a:hover {
+  color: #09f;
+}
+
+.section {
+  text-align: center;
+}
+
+#titlesection {
   background-image: url("img/headerimg.jpg");
   background-size: cover;
-}
-
-#problemsolution {
-  background-color: rgb(248, 248, 248);
-}
-
-#designfeatures {
-  background-color: rgb(245, 245, 245);
-}
-
-#documents {
-  background-color: rgb(248, 248, 248);
-}
-
-#team {
-  background-color: rgb(250, 250, 250);
-}
-
-#footer {
-  background-color: rgb(245, 245, 245);
   text-align: center;
-  height: 100px;
-  line-height: 100px;
+  color: #fff;
 }
 
-#title {
-  margin-top: 250px;
-  padding: 25px;
-  background-color: rgba(250, 250, 250, 0.75);
+#alpha {
   width: 100%;
+  height: 100%;
+  background-color: rgba(0, 153, 255, 0.2);
 }
 
 h1 {
-  font-size: 100px;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  font-size: 8em;
+  font-weight: bold;
+}
+#titlesection p {
+  font-size: 2em;
+}
+
+#problemsection {
+  color: #fff;
 }
 
 h2 {
-  padding-bottom: 50px;
-  font-size: 50px;
+  font-size: 3em;
 }
 
-h3 {
-  padding-bottom: 25px;
-}
-
-.mainblock {
-  padding-bottom: 50px;
-  padding-top: 50px;
-  text-align: center;
-}
-
-.psgroup {
-  padding: 30px;
-}
-
-.featuregroup {
-  padding: 30px;
-  padding-left: 100px;
-  padding-right: 100px;
-}
-
-.fg1 {
-  background-color: rgb(250, 250, 250);
-}
-
-.feature {
-  padding: 50px;
-  padding-top: 125px;
+p {
+  width: 75%;
+  font-size: 1.2em;
+  margin: 1em auto;
+  line-height: 2em;
 }
 
 .featureimg {
-  height: 400px;
+  width: 15vw;
+  float: left;
+  margin-left: 15vw;
 }
 
-.doc {
-  padding-bottom: 40px;
+.fp-controlArrow.fp-prev {
+  border-color: transparent #999 transparent transparent !important;
 }
+
+.fp-controlArrow.fp-next {
+  border-color: transparent transparent transparent #999 !important;
+}
+
+.right {
+  width: 70vw;
+  float: right;
+}
+
 .docimg {
   height: 100px;
-  padding-bottom: 15px;
+}
+
+#documentssection ul, #teamsection ul {
+  padding: 0;
+  list-style-type: none;
+  display: inline-block;
+}
+
+#documentssection ul li, #teamsection ul li {
+  float: left;
+  padding: 40px;
+}
+
+#teamsection {
+  color: #fff;
+}
+
+.imgcircle {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.imgcircle img {
+  width: 200px;
 }

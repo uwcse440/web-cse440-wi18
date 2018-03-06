@@ -2,13 +2,132 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Titan+One" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">-->
     <link rel="stylesheet" href="index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.fullPage.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $("#fullpage").fullpage({
+          sectionsColor: ['#fff', '#09f', '#fff', '#ddd', '#09f'],
+          anchors: ['title', 'problem', 'design', 'documents', 'team'],
+          menu: "#menu",
+          scrollingSpeed: 1000
+        });
+      });
+    </script>
     <title>Pool'r</title>
 </head>
 <body>
-  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+  <ul id="menu">
+    <li data-menuanchor="title" id="home"><a href="#title">Pool'r</a></li>
+    <li data-menuanchor="problem"><a href="#problem">Problem</a></li>
+    <li data-menuanchor="design"><a href="#design">Design</a></li>
+    <li data-menuanchor="documents"><a href="#documents">Documents</a></li>
+    <li data-menuanchor="team"><a href="#team">Team</a></li>
+  </ul>
+  <div id="fullpage">
+    <div class="section" id="titlesection">
+      <div class="intro">
+          <h1>Pool'r</h1>
+          <p>A smarter way to carpool</p>
+      </div>
+    </div>
+    <div class="section" id="problemsection">
+      <div class="intro">
+        <h2>The Problem</h2>
+        <p>Some parents worry about the safety of their children when they are walking by themselves to school or other events. Single parent households and households in which both parents work are more common than they used to be, limiting the ability of the parents to alleviate this safety risk by driving their children.</p>
+        <h2>Our Solution</h2>
+        <p>The aim of Pool’r is to step in and solve this issue. Pool’r is an app that assists with the creation and maintaining of organized carpools, focused on kids. Parents take turns driving based on their availability, ensuring that no child will have to walk in a potentially dangerous environment.</p>
+      </div>
+    </div>
+    <div class="section" id="designsection">
+      <div class="slide">
+        <div class="intro">
+          <img src="img/driving.png" class="featureimg">
+          <div class="right">
+            <h2>Driving</h2>
+            <p>When it is your turn to drive, the app lets you know and generates your pickup/dropoff route for you. As you drive it gives you directions, and prompts you to acknowledge when you’ve picked someone up or dropped them off.</p>
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/tracking.png" class="featureimg">
+          <div class="right">
+          <h2>Tracking</h2>
+          <p>Parents whose children are being driven can use the app to receive notifications when their child is picked up, dropped off, and can track the car their child is in while the drive is in progress.</p>
+        </div>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="intro">
+          <img src="img/notifications.png" class="featureimg">
+          <div class="right">
+          <h2>Notifications</h2>
+          <p>Get notified before you need to leave or before you child will be picked up. Never be late again.</p>
+        </div>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="documentssection">
+      <h2>Documents</h2>
+      <center>
+        <ul>
+          <li>
+            <a href="files/InitialReport.pdf"><img src="img/document.png" class="docimg"></a>
+            <h4>Initial Report</h4>
+          </li>
+          <li>
+            <a href="files/InitialPresentation.pdf"><img src="img/pdf.png" class="docimg"></a>
+            <h4>Initial Presentation</h4>
+          </li>
+          <li>
+            <a href="files/FinalReport.pdf"><img src="img/document.png" class="docimg"></a>
+            <h4>Final Report</h4>
+          </li>
+          <li>
+            <a href="files/InitialPresentation.pdf"><img src="img/pdf.png" class="docimg"></a>
+            <h4>Final Presentation</h4>
+          </li>
+        </ul>
+      </center>
+    </div>
+    <div class="section" id="teamsection">
+      <h2>Team</h2>
+      <center>
+        <ul>
+          <li>
+            <div class="imgcircle">
+              <img src="img/alva.jpg">
+            </div>
+            <h4>Alva Wei</h4>
+          </li>
+          <li>
+            <div class="imgcircle">
+              <img src="img/blue.jpg">
+            </div>
+            <h4>Blue Jo</h4>
+          </li>
+          <li>
+            <div class="imgcircle">
+              <img src="img/emily.jpg">
+            </div>
+            <h4>Emily Nuri</h4>
+          </li>
+          <li>
+            <div class="imgcircle">
+              <img src="img/ian.jpg">
+            </div>
+            <h4>Ian Hadden</h4>
+          </li>
+        </ul>
+      </center>
+    </div>
+  </div>
+  <!--<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand">POOL'R</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -157,6 +276,6 @@
   </div>
 </body>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>-->
 </body>
 </html>
