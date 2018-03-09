@@ -1,46 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Titan+One" rel="stylesheet">
-    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">-->
-    <link rel="stylesheet" href="index.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script type="text/javascript" src="jquery.fullPage.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function() {
-        $("#fullpage").fullpage({
-          sectionsColor: ['#fff', '#09f', '#fff', '#ddd', '#09f'],
-          anchors: ['title', 'problem', 'design', 'documents', 'team'],
-          menu: "#menu",
-          scrollingSpeed: 1000
-        });
+  <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Exo+2:800" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="jquery.fullPage.css">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <script type="text/javascript" src="jquery.fullPage.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      var sections = ['home', 'problem', 'design', 'team', 'documents'];
+      $("#fullpage").fullpage({
+        sectionsColor: ['#fff', '#09f', '#fff', '#09f', '#fff'],
+        anchors: ['home', 'problem', 'design', 'team', 'documents'],
+        menu: "#menu",
+        slidesNavigation: true,
+        scrollingSpeed: 1000,
+        onLeave: function(index, nextIndex, direction) {
+          $("li[data-menuanchor=\'" + sections[index - 1] + "\'] a").css('color', '#999');
+          $("li[data-menuanchor=\'" + sections[nextIndex - 1] + "\'] a").css('color', '#09f');
+        }
       });
-    </script>
-    <title>Pool'r</title>
+    });
+  </script>
+  <title>Pool'r</title>
 </head>
 <body>
   <ul id="menu">
-    <li data-menuanchor="title" id="home"><a href="#title">Pool'r</a></li>
+    <li data-menuanchor="home" id="logo"><a href="#home">POOL'R</a></li>
     <li data-menuanchor="problem"><a href="#problem">Problem</a></li>
     <li data-menuanchor="design"><a href="#design">Design</a></li>
-    <li data-menuanchor="documents"><a href="#documents">Documents</a></li>
     <li data-menuanchor="team"><a href="#team">Team</a></li>
+    <li data-menuanchor="documents"><a href="#documents">Documents</a></li>
   </ul>
   <div id="fullpage">
     <div class="section" id="titlesection">
       <div class="intro">
-          <h1>Pool'r</h1>
-          <p>A smarter way to carpool</p>
+        <h1>A community-driven, parent-trusted solution, <span>POOL'R</span> is the smarter way to carpool.</h1>
       </div>
     </div>
     <div class="section" id="problemsection">
       <div class="intro">
         <h2>The Problem</h2>
-        <p>Some parents worry about the safety of their children when they are walking by themselves to school or other events. Single parent households and households in which both parents work are more common than they used to be, limiting the ability of the parents to alleviate this safety risk by driving their children.</p>
+        <p>Some parents worry about the safety of their children when they are walking by themselves to school or other events. Single parent households and households in which both parents work are more common than they used to be, so a lot of parents simply don't have the time to drive their kids.</p>
         <h2>Our Solution</h2>
-        <p>The aim of Pool’r is to step in and solve this issue. Pool’r is an app that assists with the creation and maintaining of organized carpools, focused on kids. Parents take turns driving based on their availability, ensuring that no child will have to walk in a potentially dangerous environment.</p>
+        <p>Pool’r is an app that assists with the creation and maintaining of organized carpools, focused on kids. Parents take turns driving based on their availability, ensuring that no child will have to walk in a potentially dangerous environment.</p>
       </div>
     </div>
     <div class="section" id="designsection">
@@ -57,19 +62,56 @@
         <div class="intro">
           <img src="img/tracking.png" class="featureimg">
           <div class="right">
-          <h2>Tracking</h2>
-          <p>Parents whose children are being driven can use the app to receive notifications when their child is picked up, dropped off, and can track the car their child is in while the drive is in progress.</p>
-        </div>
+            <h2>Tracking</h2>
+            <p>Parents whose children are being driven can use the app to receive notifications when their child is picked up, dropped off, and can track the car their child is in while the drive is in progress.</p>
+          </div>
         </div>
       </div>
       <div class="slide">
         <div class="intro">
           <img src="img/notifications.png" class="featureimg">
           <div class="right">
-          <h2>Notifications</h2>
-          <p>Get notified before you need to leave or before you child will be picked up. Never be late again.</p>
+            <h2>Notifications</h2>
+            <p>Get notified before you need to leave or before your child will be picked up. Never be late again.</p>
+          </div>
         </div>
-        </div>
+      </div>
+    </div>
+    <div class="section" id="teamsection">
+      <div class="intro">
+        <h2>The <span>POOL'R</span> Team</h2>
+        <center>
+          <ul>
+            <li>
+              <div class="imgcircle">
+                <img src="img/alva.jpg">
+              </div>
+              <h4>Alva Wei</h4>
+              <p>CSE</p>
+            </li>
+            <li>
+              <div class="imgcircle">
+                <img src="img/blue.jpg">
+              </div>
+              <h4>Blue Jo</h4>
+              <p>CSE</p>
+            </li>
+            <li>
+              <div class="imgcircle">
+                <img src="img/emily.jpg">
+              </div>
+              <h4>Emily Nuri</h4>
+              <p>HCDE</p>
+            </li>
+            <li>
+              <div class="imgcircle">
+                <img src="img/ian.jpg">
+              </div>
+              <h4>Ian Hadden</h4>
+              <p>CSE</p>
+            </li>
+          </ul>
+        </center>
       </div>
     </div>
     <div class="section" id="documentssection">
@@ -95,187 +137,6 @@
         </ul>
       </center>
     </div>
-    <div class="section" id="teamsection">
-      <h2>Team</h2>
-      <center>
-        <ul>
-          <li>
-            <div class="imgcircle">
-              <img src="img/alva.jpg">
-            </div>
-            <h4>Alva Wei</h4>
-          </li>
-          <li>
-            <div class="imgcircle">
-              <img src="img/blue.jpg">
-            </div>
-            <h4>Blue Jo</h4>
-          </li>
-          <li>
-            <div class="imgcircle">
-              <img src="img/emily.jpg">
-            </div>
-            <h4>Emily Nuri</h4>
-          </li>
-          <li>
-            <div class="imgcircle">
-              <img src="img/ian.jpg">
-            </div>
-            <h4>Ian Hadden</h4>
-          </li>
-        </ul>
-      </center>
-    </div>
   </div>
-  <!--<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand">POOL'R</a>
-
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarText">
-      <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-              <a class="nav-link" href="#head">Overview</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#designfeatures">Design</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#documents">Documents</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#team">Team</a>
-          </li>
-      </ul>
-    </div>
-  </nav>
-
-  <div id="top" class="mainblock">
-    <div id="title">
-      <h1>POOL'R</h1>
-      <p>A BETTER WAY TO CARPOOL</p>
-    </div>
-  </div>
-
-  <div id="problemsolution" class="mainblock">
-    <div class="container">
-      <div class="psgroup">
-        <h2>PROBLEM</h2>
-        <p>Some parents worry about the safety of their children when they are walking by themselves to school or other events. Single parent households and households in which both parents work are more common than they used to be, limiting the ability of the parents to alleviate this safety risk by driving their children.</p>
-      </div>
-      <div class="psgroup">
-        <h2>SOLUTION</h2>
-        <p>The aim of Pool’r is to step in and solve this issue. Pool’r is an app that assists with the creation and maintaining of organized carpools, focused on kids. Parents take turns driving based on their availability, ensuring that no child will have to walk in a potentially dangerous environment.</p>
-      </div>
-    </div>
-  </div>
-
-  <div id="designfeatures" class="mainblock">
-    <div class="container">
-      <h2>DESIGN</h2>
-      <div class="featuregroup fg1">
-        <div class="row">
-          <div class="col-">
-            <img src="img/driving.png" class="featureimg">
-          </div>
-          <div class="col feature">
-            <h3>DRIVING</h3>
-            <p>When it is your turn to drive, the app lets you know and generates your pickup/dropoff route for you. As you drive it gives you directions, and prompts you to acknowledge when you’ve picked someone up or dropped them off.</p>
-          </div>
-        </div>
-      </div>
-      <div class="featuregroup fg2">
-        <div class="row">
-          <div class="col feature">
-            <h3>TRACKING</h3>
-            <p>Parents whose children are being driven can use the app to receive notifications when their child is picked up, dropped off, and can track the car their child is in while the drive is in progress.</p>
-          </div>
-          <div class="col-">
-            <img src="img/tracking.png" class="featureimg">
-          </div>
-        </div>
-      </div>
-      <div class="featuregroup fg1">
-        <div class="row">
-          <div class="col-">
-            <img src="img/groups.png" class="featureimg">
-          </div>
-          <div class="col feature">
-            <h3>CARPOOL GROUPS</h3>
-            <p>The app also allows parents to create, search, or become members of carpool groups. Carpool groups will have a regular schedules for certain pick up and drop off locations, serving as a long-term solution for parents.</p>
-          </div>
-        </div>
-      </div>
-      <div class="featuregroup fg2">
-        <div class="row">
-          <div class="col feature">
-            <h3>NOTIFICATIONS</h3>
-            <p>Get notified before you need to leave or before you child will be picked up. Never be late again.</p>
-          </div>
-          <div class="col-">
-            <img src="img/notifications.png" class="featureimg">
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div id="documents" class="mainblock">
-    <div class="container" style="max-width: 800px;">
-      <h2>DOCUMENTS</h2>
-      <div class="row">
-        <div class="col doc">
-          <a href="files/InitialReport.pdf"><img src="img/document.png" class="docimg"></a>
-          <h4>INITIAL REPORT</h4>
-        </div>
-        <div class="col doc">
-          <a href="files/InitialPresentation.pdf"><img src="img/pdf.png" class="docimg"></a>
-          <h4>INITIAL PRESENTATION</h4>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col doc">
-          <a href="files/FinalReport.pdf"><img src="img/document.png" class="docimg"></a>
-          <h4>FINAL REPORT</h4>
-        </div>
-        <div class="col doc">
-          <a href="files/InitialPresentation.pdf"><img src="img/pdf.png" class="docimg"></a>
-          <h4>FINAL PRESENTATION</h4>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div id="team" class="mainblock">
-    <div class="container">
-      <h2>TEAM</h2>
-      <div class="row">
-        <div class="col teammember">
-          <h4>ALVA WEI</h4>
-          <p>Team member</p>
-        </div>
-        <div class="col teammember">
-          <h4>BLUE JO</h4>
-          <p>Team member</p>
-        </div>
-        <div class="col teammember">
-          <h4>EMILY NURI</h4>
-          <p>Team member</p>
-        </div>
-        <div class="col teammember">
-          <h4>IAN HADDEN</h4>
-          <p>Team member</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div id="footer">
-    <p>POOL'R</p>
-  </div>
-</body>
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>-->
 </body>
 </html>
