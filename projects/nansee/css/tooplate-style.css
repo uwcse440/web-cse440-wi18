@@ -94,6 +94,30 @@ p {
 	letter-spacing: 1px;
 }
 
+.second-section h5 {
+	margin-top: 60px;
+	color: #415b90;
+	font-size: 36px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 3% 0px;
+}
+
+.second-section .col-md-3 {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.second-section .service-item {
+	text-align: center;
+}
+
+.second-section .service-item .icon img {
+	max-width: 100%;
+	overflow: hidden;
+}
+
 
 /* ======================
 ----- THIRD SECTION------
@@ -137,6 +161,47 @@ p {
 	margin-top: 15px;
 }
 
+/* 
+In between 2 and 3
+*/
+
+.blah-section {
+	padding: 100px 0px;
+}
+
+.blah-section h4 {
+	margin-top: 60px;
+	color: #415b90;
+	font-size: 36px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.blah-section h5 {
+	margin-top: 60px;
+	color: #415b90;
+	font-size: 36px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 3% 0px;
+}
+
+.blah-section .col-md-3 {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.blah-section .service-item {
+	text-align: center;
+}
+
+.blah-section .service-item .icon img {
+	max-width: 100%;
+	overflow: hidden;
+}
+
 
 /* ======================
 ---- FOURTH SECTION -----
@@ -147,6 +212,16 @@ p {
 	width: 100%;
 	background-repeat: no-repeat;
 	padding: 16% 0px;
+}
+
+.fourth-section h5 {
+	margin-top: 10px;
+	color: #415b90;
+	font-size: 36px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 10% 0px;
 }
 
 .fourth-section .col-md-3 {
