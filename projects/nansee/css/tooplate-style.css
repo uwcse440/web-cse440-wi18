@@ -81,7 +81,7 @@ p {
 =======================*/
 
 .second-section {
-	padding: 10%;
+	padding-bottom: 10%;
 }
 
 .second-section h4 {
@@ -149,18 +149,13 @@ In between the third and forth section
 	letter-spacing: 1px;
 }
 
-.blah-section .col-md-3 {
-	padding-left: 0px;
-	padding-right: 0px;
+.blah-section h6 {
+	color: #b9b3e8ff;
+	font-size: 24px;
 }
 
-.blah-section .service-item {
-	text-align: center;
-}
-
-.blah-section .service-item .icon img {
-	max-width: 100%;
-	overflow: hidden;
+.blah-section img {
+	width: 350px;
 }
 
 
@@ -172,17 +167,15 @@ In between the third and forth section
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
-	padding: 16% 0px;
+	padding: 6% 0px;
 }
 
-.fourth-section h5 {
+.fourth-section h4 {
+	color: #b9b3e8ff;
+	font-size: 24px;
 	margin-top: 10px;
-	color: #78cbd6ff;;
-	font-size: 36px;
 	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	padding: 10% 0px;
+	padding: 5% 0px;
 }
 
 .fourth-section .col-md-3 {
@@ -288,7 +281,22 @@ In between the third and forth section
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
-	padding: 10% 0px;
+	padding-bottom: 10%;
+}
+
+.sixth-section h4 {
+	margin-top: 60px;
+	color: #78cbd6ff;
+	font-size: 36px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.sixth-section h5 {
+	color: #b9b3e8ff;
+	font-size: 24px;
 }
 
 .sixth-section .service-item {
@@ -297,6 +305,8 @@ In between the third and forth section
 
 .sixth-section .service-item .profiles img {
 	width: 200px;
+	border-radius: 50%;
+	border: 5px solid #78cbd6ff;
 	overflow: hidden;
 }
 
@@ -305,64 +315,12 @@ In between the third and forth section
 =======================*/
 
 footer {
-	text-align: center;
 	background-image: url(../img/footer-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
 	padding: 11% 0px 4% 0px;
 }
-
-footer ul {
-	padding: 0;
-	margin: 0;
-	list-style: none;
-}
-
-footer ul li {
-	display: inline-block;
-	margin: 0 3px;
-}
-
-footer ul li a {
-	font-size: 16px;
-	color: #415b90;
-	display: inline-block;
-	width: 38px;
-	height: 38px;
-	line-height: 38px;
-	text-align: center;
-	background-color: #fff;
-	border-radius: 50%;
-}
-
-footer ul li a:hover {
-	background-color: #22304d;
-	color: #415b90;
-	transition: all 0.3s;
-}
-
-footer p {
-	margin-top: 20px;
-	font-size: 13px;
-	font-weight: 300;
-	letter-spacing: 0.2px;
-	color: #fff;
-}
-
-footer em {
-	font-style: normal;
-	font-weight: 600;
-}
-
-footer a {
-	color: #fff;
-}
-
-footer a:hover {
-	color: #3CF;
-}
-
 
 /* ======================
 -- RESPONSIVE SECTION ---
