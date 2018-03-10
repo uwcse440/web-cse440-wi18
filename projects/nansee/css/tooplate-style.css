@@ -22,7 +22,6 @@ body {
 
 p {
 	font-size: 18px;
-	color: #7a7a7a;
 	line-height: 22px;
 }
 
@@ -81,43 +80,21 @@ p {
 ---- SECOND SECTION------
 =======================*/
 
-.second-section {
-	padding: 100px 0px;
-}
-
 .second-section h4 {
 	margin-top: 60px;
-	color: #415b90;
+	color: #78cbd6ff;
 	font-size: 36px;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 
-.second-section h5 {
-	margin-top: 60px;
-	color: #415b90;
-	font-size: 36px;
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	padding: 3% 0px;
-}
-
-.second-section .col-md-3 {
-	padding-left: 0px;
-	padding-right: 0px;
-}
-
-.second-section .service-item {
+.second-section .container > p {
+	color: #b9b3e8ff;
+	font-size: 30px;
 	text-align: center;
+	line-height: 30px;
 }
-
-.second-section .service-item .icon img {
-	max-width: 100%;
-	overflow: hidden;
-}
-
 
 /* ======================
 ----- THIRD SECTION------
