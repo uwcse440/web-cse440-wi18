@@ -80,6 +80,10 @@ p {
 ---- SECOND SECTION------
 =======================*/
 
+.second-section {
+	padding: 10%;
+}
+
 .second-section h4 {
 	margin-top: 60px;
 	color: #78cbd6ff;
@@ -105,7 +109,7 @@ p {
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
-	padding: 20% 0px;
+	padding: 10% 0px;
 }
 
 .third-section .left-image img {
@@ -116,12 +120,6 @@ p {
 
 .third-section .right-text {
 	display: inline;
-}
-
-.third-section em {
-	font-size: 18px;
-	font-style: normal;
-	font-weight: 300;
 }
 
 .third-section h4 {
@@ -139,30 +137,16 @@ p {
 }
 
 /* 
-In between 2 and 3
+In between the third and forth section
 */
-
-.blah-section {
-	padding: 100px 0px;
-}
 
 .blah-section h4 {
 	margin-top: 60px;
-	color: #415b90;
+	color: #78cbd6ff;
 	font-size: 36px;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-}
-
-.blah-section h5 {
-	margin-top: 60px;
-	color: #415b90;
-	font-size: 36px;
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	padding: 3% 0px;
 }
 
 .blah-section .col-md-3 {
@@ -193,7 +177,7 @@ In between 2 and 3
 
 .fourth-section h5 {
 	margin-top: 10px;
-	color: #415b90;
+	color: #78cbd6ff;;
 	font-size: 36px;
 	font-weight: 700;
 	text-transform: uppercase;
