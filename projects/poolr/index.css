@@ -34,6 +34,15 @@ h1, h2, h3, h4, h5, h6, p, a {
   color: #09f;
 }
 
+#menu img {
+  height: 24px;
+  margin-top: 24px;
+}
+
+#menu li.logo {
+  float: right;
+}
+
 #logo a {
   font-family: 'Exo 2', sans-serif;
   font-weight: 800;
