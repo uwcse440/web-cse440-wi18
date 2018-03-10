@@ -207,7 +207,7 @@ In between the third and forth section
 
 .fivth-section h4 {
 	margin-top: 30px;
-	color: #fff;
+	color: #78cbd6ff;
 	font-size: 24px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -219,16 +219,8 @@ In between the third and forth section
 	overflow: hidden;
 }
 
-.fivth-section .first-item .text {
+.fivth-section .first-item .text, .fivth-section .second-item .text, .fivth-section .third-item .text {
 	background-color: #f4f4f4;
-}
-
-.fivth-section .second-item .text {
-	background-color: #eaeaea;
-}
-
-.fivth-section .third-item .text {
-	background-color: #dedede;
 }
 
 .fivth-section .portfolio-item .text {
@@ -242,36 +234,10 @@ In between the third and forth section
 
 .fivth-section .portfolio-item .text h4 {
 	font-size: 17px;
-	color: #343434;
+	color: #78cbd6ff;
 	font-weight: 700;
 }
 
-.fivth-section .send-to-portfolio {
-	background-color: #415b90;
-	text-align: center;
-	padding:  46.7% 0px;
-}
-
-.fivth-section .send-to-portfolio span {
-	display: inline-block;
-	font-size: 13px;
-	color: #fff;
-}
-
-.fivth-section .send-to-portfolio .primary-button {
-	margin-top: 20px;
-}
-
-.fivth-section .send-to-portfolio .primary-button a {
-	background-color: #fff;
-	color: #415b90;
-}
-
-.fivth-section .send-to-portfolio .primary-button a:hover {
-	background-color: #22304d;
-	color: #fff;
-	transition: all 0.3s;
-}
 
 /* ======================
 ----- SIXTH SECTION------
