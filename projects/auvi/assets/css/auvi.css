@@ -2,6 +2,10 @@ article.doc-link {
     height: 100px !important;
 }
 
+a.doc-link:hover {
+    color: darkgray !important;
+}
+
 div.center {
     margin: auto;
     width: 750px;
