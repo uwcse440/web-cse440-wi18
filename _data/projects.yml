@@ -1,31 +1,31 @@
 projects:
    - name: "AuVi"
      path: auvi
-#     publishlink: false
+     publishlink: true
    - name: "Found in Translation"
      path: foundintranslation
-#     publishlink: false
+     publishlink: true
    - name: "Loud Proof"
      path: LoudProof
-#     publishlink: false
+     publishlink: true
    - name: "Nansee"
      path: nansee
-#     publishlink: false
+     publishlink: true
    - name: "Poolr"
      path: poolr
-#     publishlink: false
+     publishlink: true
    - name: "ReJournal"
      path: rejournal
-#     publishlink: false
+     publishlink: true
    - name: "Silvia's Farm"
      path: SilviasFarm
-#     publishlink: false
+     publishlink: true
    - name: "Votr"
      path: votr-site
-#     publishlink: false
+     publishlink: true
    - name: "Wait Watchers"
      path: WaitWatchers
-#     publishlink: false
+     publishlink: true
    - name: "Walkmate"
      path: walkmate
-#     publishlink: false
+     publishlink: true
