@@ -1,43 +1,31 @@
 projects:
-#   - name: "amisu"
-#     path: amisu
+   - name: "AuVi"
+     path: auvi
 #     publishlink: false
-#   - name: "BackTrack"
-#     path: backtrack
+   - name: "Found in Translation"
+     path: foundintranslation
 #     publishlink: false
-#   - name: "Cease"
-#     path: cease
+   - name: "Loud Proof"
+     path: LoudProof
 #     publishlink: false
-#   - name: "Check Yourself"
-#     path: checkyourself
+   - name: "Nansee"
+     path: nansee
 #     publishlink: false
-#   - name: "Hermes"
-#     path: hermes
-#     publishlink: true
-#   - name: "interview.io"
-#     path: interviewio
-#     publishlink: true
-#   - name: "MetaGrocer"
-#     path: metagrocer
+   - name: "Poolr"
+     path: poolr
 #     publishlink: false
-#   - name: "MOLO"
-#     path: molo
-#     publishlink: true
-#   - name: "Pilltender"
-#     path: pilltender
+   - name: "ReJournal"
+     path: rejournal
 #     publishlink: false
-#   - name: "RAPID"
-#     path: rapid
+   - name: "Silvia's Farm"
+     path: SilviasFarm
 #     publishlink: false
-#   - name: "SALT"
-#     path: salt
+   - name: "Votr"
+     path: votr-site
 #     publishlink: false
-#   - name: "SimPark"
-#     path: simpark
-#     publishlink: true
-#   - name: "Speech Bubble"
-#     path: speechbubble
+   - name: "Wait Watchers"
+     path: WaitWatchers
 #     publishlink: false
-#   - name: "StudyBuddy"
-#     path: studybuddy
-#     publishlink: true
+   - name: "Walkmate"
+     path: walkmate
+#     publishlink: false
