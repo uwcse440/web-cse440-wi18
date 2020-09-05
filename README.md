@@ -1,6 +1,6 @@
-# web-jekyll-base
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
 
-[![Build Status](https://travis-ci.org/uwcse440/web-cse440-au17.svg?branch=master)](https://travis-ci.org/uwcse440/web-cse440-wi18)
+# web-jekyll-base
 
 The course website for CSE 440 in Winter 2018.
 
